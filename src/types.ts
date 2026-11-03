@@ -59,3 +59,42 @@ export interface ReviewLog {
   reviewedAt: string; // ISO datetime
   elapsedMs: number;
 }
+
+export type Theme = 'sistema' | 'claro' | 'oscuro';
+
+export interface LangSettings {
+  newPerDay: number; // por defecto 10
+  maxReviewsPerDay: number; // por defecto 200
+  reverse: boolean; // modo inverso: español → idioma objetivo
+}
+
+/** Documento único del store `settings` (ajustes globales y por idioma). */
+export interface Settings {
+  autoplay: boolean;
+  showFurigana: boolean;
+  showPinyin: boolean;
+  showRomanization: boolean;
+  speechRate: number; // 0.5 – 1.5
+  theme: Theme;
+  langs: Record<LangCode, LangSettings>;
+}
+
+/** Documento único del store `meta`. */
+export interface Meta {
+  streak: number;
+  lastStudyDate: string | null; // YYYY-MM-DD (día lógico)
+  newIntroducedToday: Record<LangCode, number>;
+  reviewsDoneToday: Record<LangCode, number>; // para el máximo de repasos por día
+  dayKey: string; // día lógico al que corresponden los contadores
+}
+
+/** Archivo de respaldo (exportar / importar). */
+export interface BackupFile {
+  app: 'PowerSpeak';
+  schemaVersion: number;
+  exportedAt: string;
+  reviews: ReviewState[];
+  logs: ReviewLog[];
+  settings: Settings;
+  meta: Meta;
+}
