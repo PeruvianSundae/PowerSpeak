@@ -1,0 +1,1889 @@
+{
+  "lang": "zh",
+  "name": "Chino mandarín",
+  "ttsLang": "zh-CN",
+  "version": 1,
+  "cards": [
+    {
+      "id": "zh-0001",
+      "term": "你好",
+      "reading": "nǐ hǎo",
+      "meaning": "hola",
+      "pos": "expresión",
+      "example": {
+        "text": "你好，我叫马丁。",
+        "reading": "Nǐ hǎo, wǒ jiào Mǎdīng.",
+        "translation": "Hola, me llamo Martín."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 1,
+      "notes": "Dos terceros tonos seguidos: el primero se pronuncia como segundo (ní hǎo)."
+    },
+    {
+      "id": "zh-0002",
+      "term": "再见",
+      "reading": "zài jiàn",
+      "meaning": "adiós",
+      "pos": "expresión",
+      "example": {
+        "text": "老师，再见！",
+        "reading": "Lǎoshī, zàijiàn!",
+        "translation": "¡Adiós, profesor!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "zh-0003",
+      "term": "谢谢",
+      "reading": "xiè xie",
+      "meaning": "gracias",
+      "pos": "expresión",
+      "example": {
+        "text": "谢谢你的帮助。",
+        "reading": "Xièxie nǐ de bāngzhù.",
+        "translation": "Gracias por tu ayuda."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 3
+    },
+    {
+      "id": "zh-0004",
+      "term": "不客气",
+      "reading": "bù kè qi",
+      "meaning": "de nada",
+      "pos": "expresión",
+      "example": {
+        "text": "谢谢！——不客气。",
+        "reading": "Xièxie! — Bù kèqi.",
+        "translation": "¡Gracias! —De nada."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 4,
+      "notes": "不 se pronuncia bú antes de cuarto tono: bú kèqi."
+    },
+    {
+      "id": "zh-0005",
+      "term": "对不起",
+      "reading": "duì bu qǐ",
+      "meaning": "perdón, lo siento",
+      "pos": "expresión",
+      "example": {
+        "text": "对不起，我来晚了。",
+        "reading": "Duìbuqǐ, wǒ lái wǎn le.",
+        "translation": "Perdón, llegué tarde."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "zh-0006",
+      "term": "请",
+      "reading": "qǐng",
+      "meaning": "por favor; invitar",
+      "pos": "expresión",
+      "example": {
+        "text": "请坐。",
+        "reading": "Qǐng zuò.",
+        "translation": "Siéntese, por favor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 6
+    },
+    {
+      "id": "zh-0007",
+      "term": "早上好",
+      "reading": "zǎo shang hǎo",
+      "meaning": "buenos días",
+      "pos": "expresión",
+      "example": {
+        "text": "早上好，老师！",
+        "reading": "Zǎoshang hǎo, lǎoshī!",
+        "translation": "¡Buenos días, profesor!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "zh-0008",
+      "term": "晚安",
+      "reading": "wǎn ān",
+      "meaning": "buenas noches (al ir a dormir)",
+      "pos": "expresión",
+      "example": {
+        "text": "我去睡觉了，晚安！",
+        "reading": "Wǒ qù shuìjiào le, wǎn'ān!",
+        "translation": "Me voy a dormir, ¡buenas noches!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "zh-0009",
+      "term": "没关系",
+      "reading": "méi guān xi",
+      "meaning": "no pasa nada",
+      "pos": "expresión",
+      "example": {
+        "text": "对不起！——没关系。",
+        "reading": "Duìbuqǐ! — Méi guānxi.",
+        "translation": "¡Perdón! —No pasa nada."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "zh-0010",
+      "term": "是",
+      "reading": "shì",
+      "meaning": "ser",
+      "pos": "verbo",
+      "example": {
+        "text": "我是秘鲁人。",
+        "reading": "Wǒ shì Bìlǔ rén.",
+        "translation": "Soy peruano."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 10
+    },
+    {
+      "id": "zh-0011",
+      "term": "不",
+      "reading": "bù",
+      "meaning": "no (negación)",
+      "pos": "adverbio",
+      "example": {
+        "text": "我不喝咖啡。",
+        "reading": "Wǒ bù hē kāfēi.",
+        "translation": "No tomo café."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 11,
+      "notes": "Antes de cuarto tono se pronuncia bú: 不是 (bú shì)."
+    },
+    {
+      "id": "zh-0012",
+      "term": "没有",
+      "reading": "méi yǒu",
+      "meaning": "no tener; no haber",
+      "pos": "verbo",
+      "example": {
+        "text": "这里没有人。",
+        "reading": "Zhèlǐ méiyǒu rén.",
+        "translation": "Aquí no hay nadie."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "zh-0013",
+      "term": "我",
+      "reading": "wǒ",
+      "meaning": "yo",
+      "pos": "pronombre",
+      "example": {
+        "text": "我很好。",
+        "reading": "Wǒ hěn hǎo.",
+        "translation": "Estoy bien."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 13
+    },
+    {
+      "id": "zh-0014",
+      "term": "你",
+      "reading": "nǐ",
+      "meaning": "tú",
+      "pos": "pronombre",
+      "example": {
+        "text": "你是学生吗？",
+        "reading": "Nǐ shì xuésheng ma?",
+        "translation": "¿Eres estudiante?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 14
+    },
+    {
+      "id": "zh-0015",
+      "term": "他",
+      "reading": "tā",
+      "meaning": "él",
+      "pos": "pronombre",
+      "example": {
+        "text": "他是我哥哥。",
+        "reading": "Tā shì wǒ gēge.",
+        "translation": "Él es mi hermano mayor."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 15
+    },
+    {
+      "id": "zh-0016",
+      "term": "她",
+      "reading": "tā",
+      "meaning": "ella",
+      "pos": "pronombre",
+      "example": {
+        "text": "她是医生。",
+        "reading": "Tā shì yīshēng.",
+        "translation": "Ella es médica."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 16,
+      "notes": "Se pronuncia igual que 他 (él)."
+    },
+    {
+      "id": "zh-0017",
+      "term": "我们",
+      "reading": "wǒ men",
+      "meaning": "nosotros",
+      "pos": "pronombre",
+      "example": {
+        "text": "我们是朋友。",
+        "reading": "Wǒmen shì péngyou.",
+        "translation": "Somos amigos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 17
+    },
+    {
+      "id": "zh-0018",
+      "term": "他们",
+      "reading": "tā men",
+      "meaning": "ellos",
+      "pos": "pronombre",
+      "example": {
+        "text": "他们在北京。",
+        "reading": "Tāmen zài Běijīng.",
+        "translation": "Ellos están en Pekín."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 18
+    },
+    {
+      "id": "zh-0019",
+      "term": "这",
+      "reading": "zhè",
+      "meaning": "este, esto",
+      "pos": "pronombre",
+      "example": {
+        "text": "这是什么？",
+        "reading": "Zhè shì shénme?",
+        "translation": "¿Qué es esto?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 19
+    },
+    {
+      "id": "zh-0020",
+      "term": "那",
+      "reading": "nà",
+      "meaning": "ese, eso, aquel",
+      "pos": "pronombre",
+      "example": {
+        "text": "那是我的书。",
+        "reading": "Nà shì wǒ de shū.",
+        "translation": "Ese es mi libro."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 20
+    },
+    {
+      "id": "zh-0021",
+      "term": "什么",
+      "reading": "shén me",
+      "meaning": "qué",
+      "pos": "pronombre",
+      "example": {
+        "text": "你要什么？",
+        "reading": "Nǐ yào shénme?",
+        "translation": "¿Qué quieres?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 21
+    },
+    {
+      "id": "zh-0022",
+      "term": "谁",
+      "reading": "shéi",
+      "meaning": "quién",
+      "pos": "pronombre",
+      "example": {
+        "text": "他是谁？",
+        "reading": "Tā shì shéi?",
+        "translation": "¿Quién es él?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 22,
+      "notes": "También se pronuncia shuí."
+    },
+    {
+      "id": "zh-0023",
+      "term": "哪里",
+      "reading": "nǎ lǐ",
+      "meaning": "dónde",
+      "pos": "pronombre",
+      "example": {
+        "text": "洗手间在哪里？",
+        "reading": "Xǐshǒujiān zài nǎlǐ?",
+        "translation": "¿Dónde está el baño?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 23,
+      "notes": "En el norte se dice más 哪儿 (nǎr)."
+    },
+    {
+      "id": "zh-0024",
+      "term": "什么时候",
+      "reading": "shén me shí hou",
+      "meaning": "cuándo",
+      "pos": "pronombre",
+      "example": {
+        "text": "你什么时候来？",
+        "reading": "Nǐ shénme shíhou lái?",
+        "translation": "¿Cuándo vienes?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 24
+    },
+    {
+      "id": "zh-0025",
+      "term": "怎么",
+      "reading": "zěn me",
+      "meaning": "cómo",
+      "pos": "adverbio",
+      "example": {
+        "text": "这个字怎么读？",
+        "reading": "Zhège zì zěnme dú?",
+        "translation": "¿Cómo se lee este carácter?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 25
+    },
+    {
+      "id": "zh-0026",
+      "term": "多少",
+      "reading": "duō shao",
+      "meaning": "cuánto, cuántos",
+      "pos": "pronombre",
+      "example": {
+        "text": "这个多少钱？",
+        "reading": "Zhège duōshao qián?",
+        "translation": "¿Cuánto cuesta esto?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 26
+    },
+    {
+      "id": "zh-0027",
+      "term": "吗",
+      "reading": "ma",
+      "meaning": "partícula de pregunta (sí/no)",
+      "pos": "otro",
+      "example": {
+        "text": "你好吗？",
+        "reading": "Nǐ hǎo ma?",
+        "translation": "¿Cómo estás?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 27,
+      "notes": "Va al final y convierte la oración en pregunta de sí o no."
+    },
+    {
+      "id": "zh-0028",
+      "term": "为什么",
+      "reading": "wèi shén me",
+      "meaning": "por qué",
+      "pos": "adverbio",
+      "example": {
+        "text": "你为什么学中文？",
+        "reading": "Nǐ wèishénme xué Zhōngwén?",
+        "translation": "¿Por qué estudias chino?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 28
+    },
+    {
+      "id": "zh-0029",
+      "term": "一",
+      "reading": "yī",
+      "meaning": "uno",
+      "pos": "número",
+      "example": {
+        "text": "我有一个妹妹。",
+        "reading": "Wǒ yǒu yī gè mèimei.",
+        "translation": "Tengo una hermana menor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 29,
+      "notes": "Cambia de tono según lo que sigue: yí gè, yì tiān."
+    },
+    {
+      "id": "zh-0030",
+      "term": "二",
+      "reading": "èr",
+      "meaning": "dos",
+      "pos": "número",
+      "example": {
+        "text": "二月很冷。",
+        "reading": "Èryuè hěn lěng.",
+        "translation": "En febrero hace mucho frío."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 30,
+      "notes": "Para contar cosas se usa 两 (liǎng): 两个人."
+    },
+    {
+      "id": "zh-0031",
+      "term": "三",
+      "reading": "sān",
+      "meaning": "tres",
+      "pos": "número",
+      "example": {
+        "text": "我有三本书。",
+        "reading": "Wǒ yǒu sān běn shū.",
+        "translation": "Tengo tres libros."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 31
+    },
+    {
+      "id": "zh-0032",
+      "term": "四",
+      "reading": "sì",
+      "meaning": "cuatro",
+      "pos": "número",
+      "example": {
+        "text": "我家有四口人。",
+        "reading": "Wǒ jiā yǒu sì kǒu rén.",
+        "translation": "En mi familia somos cuatro."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 32
+    },
+    {
+      "id": "zh-0033",
+      "term": "五",
+      "reading": "wǔ",
+      "meaning": "cinco",
+      "pos": "número",
+      "example": {
+        "text": "五块钱。",
+        "reading": "Wǔ kuài qián.",
+        "translation": "Cinco yuanes."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 33
+    },
+    {
+      "id": "zh-0034",
+      "term": "六",
+      "reading": "liù",
+      "meaning": "seis",
+      "pos": "número",
+      "example": {
+        "text": "我六点起床。",
+        "reading": "Wǒ liù diǎn qǐchuáng.",
+        "translation": "Me levanto a las seis."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 34
+    },
+    {
+      "id": "zh-0035",
+      "term": "七",
+      "reading": "qī",
+      "meaning": "siete",
+      "pos": "número",
+      "example": {
+        "text": "一个星期有七天。",
+        "reading": "Yī gè xīngqī yǒu qī tiān.",
+        "translation": "Una semana tiene siete días."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 35
+    },
+    {
+      "id": "zh-0036",
+      "term": "八",
+      "reading": "bā",
+      "meaning": "ocho",
+      "pos": "número",
+      "example": {
+        "text": "我八点上班。",
+        "reading": "Wǒ bā diǎn shàngbān.",
+        "translation": "Entro a trabajar a las ocho."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 36
+    },
+    {
+      "id": "zh-0037",
+      "term": "九",
+      "reading": "jiǔ",
+      "meaning": "nueve",
+      "pos": "número",
+      "example": {
+        "text": "她九岁了。",
+        "reading": "Tā jiǔ suì le.",
+        "translation": "Ella tiene nueve años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 37
+    },
+    {
+      "id": "zh-0038",
+      "term": "十",
+      "reading": "shí",
+      "meaning": "diez",
+      "pos": "número",
+      "example": {
+        "text": "现在十点。",
+        "reading": "Xiànzài shí diǎn.",
+        "translation": "Ahora son las diez."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 38
+    },
+    {
+      "id": "zh-0039",
+      "term": "有",
+      "reading": "yǒu",
+      "meaning": "tener; haber",
+      "pos": "verbo",
+      "example": {
+        "text": "你有时间吗？",
+        "reading": "Nǐ yǒu shíjiān ma?",
+        "translation": "¿Tienes tiempo?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 39
+    },
+    {
+      "id": "zh-0040",
+      "term": "去",
+      "reading": "qù",
+      "meaning": "ir",
+      "pos": "verbo",
+      "example": {
+        "text": "我去学校。",
+        "reading": "Wǒ qù xuéxiào.",
+        "translation": "Voy a la escuela."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 40
+    },
+    {
+      "id": "zh-0041",
+      "term": "来",
+      "reading": "lái",
+      "meaning": "venir",
+      "pos": "verbo",
+      "example": {
+        "text": "你来我家吧。",
+        "reading": "Nǐ lái wǒ jiā ba.",
+        "translation": "Ven a mi casa."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 41
+    },
+    {
+      "id": "zh-0042",
+      "term": "吃",
+      "reading": "chī",
+      "meaning": "comer",
+      "pos": "verbo",
+      "example": {
+        "text": "我们吃饭吧。",
+        "reading": "Wǒmen chī fàn ba.",
+        "translation": "Vamos a comer."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 42
+    },
+    {
+      "id": "zh-0043",
+      "term": "喝",
+      "reading": "hē",
+      "meaning": "beber, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "我想喝水。",
+        "reading": "Wǒ xiǎng hē shuǐ.",
+        "translation": "Quiero tomar agua."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 43
+    },
+    {
+      "id": "zh-0044",
+      "term": "说",
+      "reading": "shuō",
+      "meaning": "hablar, decir",
+      "pos": "verbo",
+      "example": {
+        "text": "你会说中文吗？",
+        "reading": "Nǐ huì shuō Zhōngwén ma?",
+        "translation": "¿Sabes hablar chino?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 44
+    },
+    {
+      "id": "zh-0045",
+      "term": "看",
+      "reading": "kàn",
+      "meaning": "ver, mirar; leer",
+      "pos": "verbo",
+      "example": {
+        "text": "我喜欢看电影。",
+        "reading": "Wǒ xǐhuan kàn diànyǐng.",
+        "translation": "Me gusta ver películas."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 45
+    },
+    {
+      "id": "zh-0046",
+      "term": "听",
+      "reading": "tīng",
+      "meaning": "escuchar",
+      "pos": "verbo",
+      "example": {
+        "text": "我在听音乐。",
+        "reading": "Wǒ zài tīng yīnyuè.",
+        "translation": "Estoy escuchando música."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 46
+    },
+    {
+      "id": "zh-0047",
+      "term": "想",
+      "reading": "xiǎng",
+      "meaning": "querer; pensar; extrañar",
+      "pos": "verbo",
+      "example": {
+        "text": "我想去中国。",
+        "reading": "Wǒ xiǎng qù Zhōngguó.",
+        "translation": "Quiero ir a China."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 47
+    },
+    {
+      "id": "zh-0048",
+      "term": "要",
+      "reading": "yào",
+      "meaning": "querer (algo); necesitar",
+      "pos": "verbo",
+      "example": {
+        "text": "我要一杯咖啡。",
+        "reading": "Wǒ yào yī bēi kāfēi.",
+        "translation": "Quiero una taza de café."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 48
+    },
+    {
+      "id": "zh-0049",
+      "term": "做",
+      "reading": "zuò",
+      "meaning": "hacer",
+      "pos": "verbo",
+      "example": {
+        "text": "你在做什么？",
+        "reading": "Nǐ zài zuò shénme?",
+        "translation": "¿Qué estás haciendo?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 49
+    },
+    {
+      "id": "zh-0050",
+      "term": "知道",
+      "reading": "zhī dao",
+      "meaning": "saber",
+      "pos": "verbo",
+      "example": {
+        "text": "我不知道。",
+        "reading": "Wǒ bù zhīdao.",
+        "translation": "No sé."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 50
+    },
+    {
+      "id": "zh-0051",
+      "term": "睡觉",
+      "reading": "shuì jiào",
+      "meaning": "dormir",
+      "pos": "verbo",
+      "example": {
+        "text": "我十一点睡觉。",
+        "reading": "Wǒ shíyī diǎn shuìjiào.",
+        "translation": "Me duermo a las once."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 51
+    },
+    {
+      "id": "zh-0052",
+      "term": "工作",
+      "reading": "gōng zuò",
+      "meaning": "trabajar; trabajo",
+      "pos": "verbo",
+      "example": {
+        "text": "我在银行工作。",
+        "reading": "Wǒ zài yínháng gōngzuò.",
+        "translation": "Trabajo en un banco."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 52
+    },
+    {
+      "id": "zh-0053",
+      "term": "学习",
+      "reading": "xué xí",
+      "meaning": "estudiar",
+      "pos": "verbo",
+      "example": {
+        "text": "我每天学习中文。",
+        "reading": "Wǒ měitiān xuéxí Zhōngwén.",
+        "translation": "Estudio chino todos los días."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 53
+    },
+    {
+      "id": "zh-0054",
+      "term": "写",
+      "reading": "xiě",
+      "meaning": "escribir",
+      "pos": "verbo",
+      "example": {
+        "text": "请写你的名字。",
+        "reading": "Qǐng xiě nǐ de míngzi.",
+        "translation": "Escribe tu nombre, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 54
+    },
+    {
+      "id": "zh-0055",
+      "term": "买",
+      "reading": "mǎi",
+      "meaning": "comprar",
+      "pos": "verbo",
+      "example": {
+        "text": "我去超市买东西。",
+        "reading": "Wǒ qù chāoshì mǎi dōngxi.",
+        "translation": "Voy al supermercado a comprar cosas."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 55,
+      "notes": "No confundir con 卖 (mài), vender: solo cambia el tono."
+    },
+    {
+      "id": "zh-0056",
+      "term": "住",
+      "reading": "zhù",
+      "meaning": "vivir (residir)",
+      "pos": "verbo",
+      "example": {
+        "text": "我住在利马。",
+        "reading": "Wǒ zhù zài Lìmǎ.",
+        "translation": "Vivo en Lima."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 56
+    },
+    {
+      "id": "zh-0057",
+      "term": "喜欢",
+      "reading": "xǐ huan",
+      "meaning": "gustar",
+      "pos": "verbo",
+      "example": {
+        "text": "我喜欢中国菜。",
+        "reading": "Wǒ xǐhuan Zhōngguó cài.",
+        "translation": "Me gusta la comida china."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 57
+    },
+    {
+      "id": "zh-0058",
+      "term": "会",
+      "reading": "huì",
+      "meaning": "saber (hacer algo aprendido)",
+      "pos": "verbo",
+      "example": {
+        "text": "我会说一点儿中文。",
+        "reading": "Wǒ huì shuō yīdiǎnr Zhōngwén.",
+        "translation": "Sé hablar un poco de chino."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 58
+    },
+    {
+      "id": "zh-0059",
+      "term": "能",
+      "reading": "néng",
+      "meaning": "poder",
+      "pos": "verbo",
+      "example": {
+        "text": "我能进来吗？",
+        "reading": "Wǒ néng jìnlai ma?",
+        "translation": "¿Puedo entrar?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 59
+    },
+    {
+      "id": "zh-0060",
+      "term": "认识",
+      "reading": "rèn shi",
+      "meaning": "conocer (a alguien)",
+      "pos": "verbo",
+      "example": {
+        "text": "认识你很高兴。",
+        "reading": "Rènshi nǐ hěn gāoxìng.",
+        "translation": "Mucho gusto en conocerte."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 60
+    },
+    {
+      "id": "zh-0061",
+      "term": "等",
+      "reading": "děng",
+      "meaning": "esperar",
+      "pos": "verbo",
+      "example": {
+        "text": "请等一下。",
+        "reading": "Qǐng děng yīxià.",
+        "translation": "Espere un momento, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 61
+    },
+    {
+      "id": "zh-0062",
+      "term": "爱",
+      "reading": "ài",
+      "meaning": "amar",
+      "pos": "verbo",
+      "example": {
+        "text": "我爱我的家人。",
+        "reading": "Wǒ ài wǒ de jiārén.",
+        "translation": "Amo a mi familia."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 62
+    },
+    {
+      "id": "zh-0063",
+      "term": "水",
+      "reading": "shuǐ",
+      "meaning": "agua",
+      "pos": "sustantivo",
+      "example": {
+        "text": "请给我一杯水。",
+        "reading": "Qǐng gěi wǒ yī bēi shuǐ.",
+        "translation": "Un vaso de agua, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 63
+    },
+    {
+      "id": "zh-0064",
+      "term": "茶",
+      "reading": "chá",
+      "meaning": "té",
+      "pos": "sustantivo",
+      "example": {
+        "text": "你喝茶吗？",
+        "reading": "Nǐ hē chá ma?",
+        "translation": "¿Tomas té?"
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 64
+    },
+    {
+      "id": "zh-0065",
+      "term": "咖啡",
+      "reading": "kā fēi",
+      "meaning": "café",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我每天喝咖啡。",
+        "reading": "Wǒ měitiān hē kāfēi.",
+        "translation": "Tomo café todos los días."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 65
+    },
+    {
+      "id": "zh-0066",
+      "term": "米饭",
+      "reading": "mǐ fàn",
+      "meaning": "arroz (cocido)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我要一碗米饭。",
+        "reading": "Wǒ yào yī wǎn mǐfàn.",
+        "translation": "Quiero un tazón de arroz."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 66
+    },
+    {
+      "id": "zh-0067",
+      "term": "面条",
+      "reading": "miàn tiáo",
+      "meaning": "fideos",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我喜欢吃面条。",
+        "reading": "Wǒ xǐhuan chī miàntiáo.",
+        "translation": "Me gusta comer fideos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 67
+    },
+    {
+      "id": "zh-0068",
+      "term": "肉",
+      "reading": "ròu",
+      "meaning": "carne",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我不吃肉。",
+        "reading": "Wǒ bù chī ròu.",
+        "translation": "No como carne."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 68
+    },
+    {
+      "id": "zh-0069",
+      "term": "鱼",
+      "reading": "yú",
+      "meaning": "pescado, pez",
+      "pos": "sustantivo",
+      "example": {
+        "text": "这条鱼很新鲜。",
+        "reading": "Zhè tiáo yú hěn xīnxiān.",
+        "translation": "Este pescado está muy fresco."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 69
+    },
+    {
+      "id": "zh-0070",
+      "term": "鸡蛋",
+      "reading": "jī dàn",
+      "meaning": "huevo (de gallina)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我早上吃两个鸡蛋。",
+        "reading": "Wǒ zǎoshang chī liǎng gè jīdàn.",
+        "translation": "En la mañana como dos huevos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 70
+    },
+    {
+      "id": "zh-0071",
+      "term": "牛奶",
+      "reading": "niú nǎi",
+      "meaning": "leche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "孩子喝牛奶。",
+        "reading": "Háizi hē niúnǎi.",
+        "translation": "El niño toma leche."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 71
+    },
+    {
+      "id": "zh-0072",
+      "term": "水果",
+      "reading": "shuǐ guǒ",
+      "meaning": "fruta",
+      "pos": "sustantivo",
+      "example": {
+        "text": "多吃水果。",
+        "reading": "Duō chī shuǐguǒ.",
+        "translation": "Come más fruta."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 72
+    },
+    {
+      "id": "zh-0073",
+      "term": "菜",
+      "reading": "cài",
+      "meaning": "plato (de comida); verdura",
+      "pos": "sustantivo",
+      "example": {
+        "text": "这个菜很好吃。",
+        "reading": "Zhège cài hěn hǎochī.",
+        "translation": "Este plato está muy rico."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 73
+    },
+    {
+      "id": "zh-0074",
+      "term": "好吃",
+      "reading": "hǎo chī",
+      "meaning": "rico, delicioso",
+      "pos": "adjetivo",
+      "example": {
+        "text": "饺子很好吃。",
+        "reading": "Jiǎozi hěn hǎochī.",
+        "translation": "Los jiaozi están muy ricos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 74
+    },
+    {
+      "id": "zh-0075",
+      "term": "今天",
+      "reading": "jīn tiān",
+      "meaning": "hoy",
+      "pos": "sustantivo",
+      "example": {
+        "text": "今天是星期一。",
+        "reading": "Jīntiān shì xīngqīyī.",
+        "translation": "Hoy es lunes."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 75
+    },
+    {
+      "id": "zh-0076",
+      "term": "明天",
+      "reading": "míng tiān",
+      "meaning": "mañana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "明天见！",
+        "reading": "Míngtiān jiàn!",
+        "translation": "¡Hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 76
+    },
+    {
+      "id": "zh-0077",
+      "term": "昨天",
+      "reading": "zuó tiān",
+      "meaning": "ayer",
+      "pos": "sustantivo",
+      "example": {
+        "text": "昨天下雨了。",
+        "reading": "Zuótiān xià yǔ le.",
+        "translation": "Ayer llovió."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 77
+    },
+    {
+      "id": "zh-0078",
+      "term": "现在",
+      "reading": "xiàn zài",
+      "meaning": "ahora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "现在几点？",
+        "reading": "Xiànzài jǐ diǎn?",
+        "translation": "¿Qué hora es?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 78
+    },
+    {
+      "id": "zh-0079",
+      "term": "时间",
+      "reading": "shí jiān",
+      "meaning": "tiempo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我没有时间。",
+        "reading": "Wǒ méiyǒu shíjiān.",
+        "translation": "No tengo tiempo."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 79
+    },
+    {
+      "id": "zh-0080",
+      "term": "天",
+      "reading": "tiān",
+      "meaning": "día; cielo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我在北京住了三天。",
+        "reading": "Wǒ zài Běijīng zhù le sān tiān.",
+        "translation": "Me quedé tres días en Pekín."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 80
+    },
+    {
+      "id": "zh-0081",
+      "term": "星期",
+      "reading": "xīng qī",
+      "meaning": "semana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "下个星期我去上海。",
+        "reading": "Xià gè xīngqī wǒ qù Shànghǎi.",
+        "translation": "La próxima semana voy a Shanghái."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 81
+    },
+    {
+      "id": "zh-0082",
+      "term": "年",
+      "reading": "nián",
+      "meaning": "año",
+      "pos": "sustantivo",
+      "example": {
+        "text": "新年快乐！",
+        "reading": "Xīnnián kuàilè!",
+        "translation": "¡Feliz año nuevo!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 82
+    },
+    {
+      "id": "zh-0083",
+      "term": "点",
+      "reading": "diǎn",
+      "meaning": "hora (en punto)",
+      "pos": "otro",
+      "example": {
+        "text": "我们八点见。",
+        "reading": "Wǒmen bā diǎn jiàn.",
+        "translation": "Nos vemos a las ocho."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 83
+    },
+    {
+      "id": "zh-0084",
+      "term": "妈妈",
+      "reading": "mā ma",
+      "meaning": "mamá",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我妈妈是老师。",
+        "reading": "Wǒ māma shì lǎoshī.",
+        "translation": "Mi mamá es profesora."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 84
+    },
+    {
+      "id": "zh-0085",
+      "term": "爸爸",
+      "reading": "bà ba",
+      "meaning": "papá",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我爸爸工作很忙。",
+        "reading": "Wǒ bàba gōngzuò hěn máng.",
+        "translation": "Mi papá está muy ocupado con el trabajo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 85
+    },
+    {
+      "id": "zh-0086",
+      "term": "哥哥",
+      "reading": "gē ge",
+      "meaning": "hermano mayor",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我哥哥很高。",
+        "reading": "Wǒ gēge hěn gāo.",
+        "translation": "Mi hermano mayor es muy alto."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 86
+    },
+    {
+      "id": "zh-0087",
+      "term": "妹妹",
+      "reading": "mèi mei",
+      "meaning": "hermana menor",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我妹妹五岁。",
+        "reading": "Wǒ mèimei wǔ suì.",
+        "translation": "Mi hermana menor tiene cinco años."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 87
+    },
+    {
+      "id": "zh-0088",
+      "term": "孩子",
+      "reading": "hái zi",
+      "meaning": "niño; hijo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "他们有两个孩子。",
+        "reading": "Tāmen yǒu liǎng gè háizi.",
+        "translation": "Ellos tienen dos hijos."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 88
+    },
+    {
+      "id": "zh-0089",
+      "term": "朋友",
+      "reading": "péng you",
+      "meaning": "amigo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "他是我的好朋友。",
+        "reading": "Tā shì wǒ de hǎo péngyou.",
+        "translation": "Es mi buen amigo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 89
+    },
+    {
+      "id": "zh-0090",
+      "term": "人",
+      "reading": "rén",
+      "meaning": "persona",
+      "pos": "sustantivo",
+      "example": {
+        "text": "这里人很多。",
+        "reading": "Zhèlǐ rén hěn duō.",
+        "translation": "Aquí hay mucha gente."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 90
+    },
+    {
+      "id": "zh-0091",
+      "term": "老师",
+      "reading": "lǎo shī",
+      "meaning": "profesor, profesora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "王老师很好。",
+        "reading": "Wáng lǎoshī hěn hǎo.",
+        "translation": "El profesor Wang es muy bueno."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 91
+    },
+    {
+      "id": "zh-0092",
+      "term": "家",
+      "reading": "jiā",
+      "meaning": "casa; familia",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我回家了。",
+        "reading": "Wǒ huí jiā le.",
+        "translation": "Ya volví a casa."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 92
+    },
+    {
+      "id": "zh-0093",
+      "term": "学校",
+      "reading": "xué xiào",
+      "meaning": "escuela",
+      "pos": "sustantivo",
+      "example": {
+        "text": "学校很大。",
+        "reading": "Xuéxiào hěn dà.",
+        "translation": "La escuela es muy grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 93
+    },
+    {
+      "id": "zh-0094",
+      "term": "商店",
+      "reading": "shāng diàn",
+      "meaning": "tienda",
+      "pos": "sustantivo",
+      "example": {
+        "text": "商店几点关门？",
+        "reading": "Shāngdiàn jǐ diǎn guānmén?",
+        "translation": "¿A qué hora cierra la tienda?"
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 94
+    },
+    {
+      "id": "zh-0095",
+      "term": "饭店",
+      "reading": "fàn diàn",
+      "meaning": "restaurante; hotel",
+      "pos": "sustantivo",
+      "example": {
+        "text": "这家饭店很有名。",
+        "reading": "Zhè jiā fàndiàn hěn yǒumíng.",
+        "translation": "Este restaurante es muy famoso."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 95
+    },
+    {
+      "id": "zh-0096",
+      "term": "中国",
+      "reading": "Zhōng guó",
+      "meaning": "China",
+      "pos": "sustantivo",
+      "example": {
+        "text": "中国很大。",
+        "reading": "Zhōngguó hěn dà.",
+        "translation": "China es muy grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 96
+    },
+    {
+      "id": "zh-0097",
+      "term": "医院",
+      "reading": "yī yuàn",
+      "meaning": "hospital",
+      "pos": "sustantivo",
+      "example": {
+        "text": "她在医院工作。",
+        "reading": "Tā zài yīyuàn gōngzuò.",
+        "translation": "Ella trabaja en el hospital."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 97
+    },
+    {
+      "id": "zh-0098",
+      "term": "大",
+      "reading": "dà",
+      "meaning": "grande",
+      "pos": "adjetivo",
+      "example": {
+        "text": "这个房间很大。",
+        "reading": "Zhège fángjiān hěn dà.",
+        "translation": "Esta habitación es muy grande."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 98
+    },
+    {
+      "id": "zh-0099",
+      "term": "小",
+      "reading": "xiǎo",
+      "meaning": "pequeño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "我的狗很小。",
+        "reading": "Wǒ de gǒu hěn xiǎo.",
+        "translation": "Mi perro es muy pequeño."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 99
+    },
+    {
+      "id": "zh-0100",
+      "term": "好",
+      "reading": "hǎo",
+      "meaning": "bueno, bien",
+      "pos": "adjetivo",
+      "example": {
+        "text": "今天天气很好。",
+        "reading": "Jīntiān tiānqì hěn hǎo.",
+        "translation": "Hoy hace muy buen tiempo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 100
+    },
+    {
+      "id": "zh-0101",
+      "term": "多",
+      "reading": "duō",
+      "meaning": "mucho, muchos",
+      "pos": "adjetivo",
+      "example": {
+        "text": "他有很多书。",
+        "reading": "Tā yǒu hěn duō shū.",
+        "translation": "Él tiene muchos libros."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 101
+    },
+    {
+      "id": "zh-0102",
+      "term": "少",
+      "reading": "shǎo",
+      "meaning": "poco, pocos",
+      "pos": "adjetivo",
+      "example": {
+        "text": "这里人很少。",
+        "reading": "Zhèlǐ rén hěn shǎo.",
+        "translation": "Aquí hay poca gente."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 102
+    },
+    {
+      "id": "zh-0103",
+      "term": "贵",
+      "reading": "guì",
+      "meaning": "caro",
+      "pos": "adjetivo",
+      "example": {
+        "text": "这件衣服太贵了。",
+        "reading": "Zhè jiàn yīfu tài guì le.",
+        "translation": "Esta ropa es demasiado cara."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 103
+    },
+    {
+      "id": "zh-0104",
+      "term": "便宜",
+      "reading": "pián yi",
+      "meaning": "barato",
+      "pos": "adjetivo",
+      "example": {
+        "text": "这个很便宜。",
+        "reading": "Zhège hěn piányi.",
+        "translation": "Esto es muy barato."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 104
+    },
+    {
+      "id": "zh-0105",
+      "term": "热",
+      "reading": "rè",
+      "meaning": "caliente; caluroso",
+      "pos": "adjetivo",
+      "example": {
+        "text": "咖啡很热。",
+        "reading": "Kāfēi hěn rè.",
+        "translation": "El café está muy caliente."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 105
+    },
+    {
+      "id": "zh-0106",
+      "term": "冷",
+      "reading": "lěng",
+      "meaning": "frío",
+      "pos": "adjetivo",
+      "example": {
+        "text": "冬天很冷。",
+        "reading": "Dōngtiān hěn lěng.",
+        "translation": "El invierno es muy frío."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 106
+    },
+    {
+      "id": "zh-0107",
+      "term": "很",
+      "reading": "hěn",
+      "meaning": "muy",
+      "pos": "adverbio",
+      "example": {
+        "text": "我很忙。",
+        "reading": "Wǒ hěn máng.",
+        "translation": "Estoy muy ocupado."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 107,
+      "notes": "Va antes del adjetivo aunque no se quiera decir «muy»: 我很好 = estoy bien."
+    },
+    {
+      "id": "zh-0108",
+      "term": "书",
+      "reading": "shū",
+      "meaning": "libro",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我在看书。",
+        "reading": "Wǒ zài kàn shū.",
+        "translation": "Estoy leyendo un libro."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 108
+    },
+    {
+      "id": "zh-0109",
+      "term": "钱",
+      "reading": "qián",
+      "meaning": "dinero",
+      "pos": "sustantivo",
+      "example": {
+        "text": "我的钱不够。",
+        "reading": "Wǒ de qián bù gòu.",
+        "translation": "No me alcanza el dinero."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 109
+    },
+    {
+      "id": "zh-0110",
+      "term": "名字",
+      "reading": "míng zi",
+      "meaning": "nombre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "你叫什么名字？",
+        "reading": "Nǐ jiào shénme míngzi?",
+        "translation": "¿Cómo te llamas?"
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 110
+    }
+  ]
+}

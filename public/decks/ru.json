@@ -1,0 +1,1768 @@
+{
+  "lang": "ru",
+  "name": "Ruso",
+  "ttsLang": "ru-RU",
+  "version": 1,
+  "cards": [
+    {
+      "id": "ru-0001",
+      "term": "приве́т",
+      "romanization": "privét",
+      "meaning": "hola (informal)",
+      "pos": "expresión",
+      "example": {
+        "text": "Привет! Как дела?",
+        "translation": "¡Hola! ¿Qué tal?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "ru-0002",
+      "term": "здра́вствуйте",
+      "romanization": "zdrávstvuyte",
+      "meaning": "hola (formal)",
+      "pos": "expresión",
+      "example": {
+        "text": "Здравствуйте, Анна Петровна!",
+        "translation": "¡Hola, Anna Petrovna!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 2,
+      "notes": "La primera в no se pronuncia: zdrástvuyte."
+    },
+    {
+      "id": "ru-0003",
+      "term": "пока́",
+      "romanization": "poká",
+      "meaning": "chao, adiós (informal)",
+      "pos": "expresión",
+      "example": {
+        "text": "Пока, до завтра!",
+        "translation": "¡Chao, hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 3
+    },
+    {
+      "id": "ru-0004",
+      "term": "до свида́ния",
+      "romanization": "do svidániya",
+      "meaning": "adiós",
+      "pos": "expresión",
+      "example": {
+        "text": "Спасибо, до свидания!",
+        "translation": "¡Gracias, adiós!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 4
+    },
+    {
+      "id": "ru-0005",
+      "term": "спаси́бо",
+      "romanization": "spasíbo",
+      "meaning": "gracias",
+      "pos": "expresión",
+      "example": {
+        "text": "Спасибо за помощь.",
+        "translation": "Gracias por la ayuda."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "ru-0006",
+      "term": "пожа́луйста",
+      "romanization": "pozháluysta",
+      "meaning": "por favor; de nada",
+      "pos": "expresión",
+      "example": {
+        "text": "Чай, пожалуйста.",
+        "translation": "Un té, por favor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 6,
+      "notes": "También significa «de nada» al responder a спасибо."
+    },
+    {
+      "id": "ru-0007",
+      "term": "да",
+      "romanization": "da",
+      "meaning": "sí",
+      "pos": "expresión",
+      "example": {
+        "text": "Да, конечно.",
+        "translation": "Sí, claro."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "ru-0008",
+      "term": "нет",
+      "romanization": "net",
+      "meaning": "no",
+      "pos": "expresión",
+      "example": {
+        "text": "Нет, спасибо.",
+        "translation": "No, gracias."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "ru-0009",
+      "term": "извини́те",
+      "romanization": "izviníte",
+      "meaning": "disculpe, perdón",
+      "pos": "expresión",
+      "example": {
+        "text": "Извините, я не понимаю.",
+        "translation": "Disculpe, no entiendo."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "ru-0010",
+      "term": "до́брое у́тро",
+      "romanization": "dóbroye útro",
+      "meaning": "buenos días",
+      "pos": "expresión",
+      "example": {
+        "text": "Доброе утро, мама!",
+        "translation": "¡Buenos días, mamá!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 10
+    },
+    {
+      "id": "ru-0011",
+      "term": "споко́йной но́чи",
+      "romanization": "spokóynoy nóchi",
+      "meaning": "buenas noches (al ir a dormir)",
+      "pos": "expresión",
+      "example": {
+        "text": "Спокойной ночи, до завтра.",
+        "translation": "Buenas noches, hasta mañana."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 11
+    },
+    {
+      "id": "ru-0012",
+      "term": "как дела́?",
+      "romanization": "kak delá?",
+      "meaning": "¿qué tal?, ¿cómo estás?",
+      "pos": "expresión",
+      "example": {
+        "text": "Привет, как дела? — Хорошо, спасибо.",
+        "translation": "Hola, ¿qué tal? —Bien, gracias."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "ru-0013",
+      "term": "я",
+      "romanization": "ya",
+      "meaning": "yo",
+      "pos": "pronombre",
+      "example": {
+        "text": "Я из Перу.",
+        "translation": "Soy de Perú."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 13
+    },
+    {
+      "id": "ru-0014",
+      "term": "ты",
+      "romanization": "ty",
+      "meaning": "tú",
+      "pos": "pronombre",
+      "example": {
+        "text": "Ты говоришь по-испански?",
+        "translation": "¿Hablas español?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 14,
+      "notes": "Para «usted» (o para varias personas) se usa вы."
+    },
+    {
+      "id": "ru-0015",
+      "term": "он",
+      "romanization": "on",
+      "meaning": "él",
+      "pos": "pronombre",
+      "example": {
+        "text": "Он мой брат.",
+        "translation": "Él es mi hermano."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 15
+    },
+    {
+      "id": "ru-0016",
+      "term": "она́",
+      "romanization": "oná",
+      "meaning": "ella",
+      "pos": "pronombre",
+      "example": {
+        "text": "Она врач.",
+        "translation": "Ella es médica."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 16
+    },
+    {
+      "id": "ru-0017",
+      "term": "мы",
+      "romanization": "my",
+      "meaning": "nosotros",
+      "pos": "pronombre",
+      "example": {
+        "text": "Мы друзья.",
+        "translation": "Somos amigos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 17
+    },
+    {
+      "id": "ru-0018",
+      "term": "они́",
+      "romanization": "oní",
+      "meaning": "ellos",
+      "pos": "pronombre",
+      "example": {
+        "text": "Они живут в Москве.",
+        "translation": "Ellos viven en Moscú."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 18
+    },
+    {
+      "id": "ru-0019",
+      "term": "э́то",
+      "romanization": "éto",
+      "meaning": "esto, eso",
+      "pos": "pronombre",
+      "example": {
+        "text": "Что это?",
+        "translation": "¿Qué es esto?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 19,
+      "notes": "También es «esto es»: Это мой дом = Esta es mi casa."
+    },
+    {
+      "id": "ru-0020",
+      "term": "что",
+      "romanization": "chto",
+      "meaning": "qué",
+      "pos": "pronombre",
+      "example": {
+        "text": "Что ты хочешь?",
+        "translation": "¿Qué quieres?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 20,
+      "notes": "Se pronuncia «shto»."
+    },
+    {
+      "id": "ru-0021",
+      "term": "кто",
+      "romanization": "kto",
+      "meaning": "quién",
+      "pos": "pronombre",
+      "example": {
+        "text": "Кто это?",
+        "translation": "¿Quién es?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 21
+    },
+    {
+      "id": "ru-0022",
+      "term": "где",
+      "romanization": "gde",
+      "meaning": "dónde",
+      "pos": "adverbio",
+      "example": {
+        "text": "Где ты живёшь?",
+        "translation": "¿Dónde vives?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 22
+    },
+    {
+      "id": "ru-0023",
+      "term": "когда́",
+      "romanization": "kogdá",
+      "meaning": "cuándo",
+      "pos": "adverbio",
+      "example": {
+        "text": "Когда ты придёшь?",
+        "translation": "¿Cuándo vienes?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 23
+    },
+    {
+      "id": "ru-0024",
+      "term": "как",
+      "romanization": "kak",
+      "meaning": "cómo",
+      "pos": "adverbio",
+      "example": {
+        "text": "Как тебя зовут?",
+        "translation": "¿Cómo te llamas?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 24
+    },
+    {
+      "id": "ru-0025",
+      "term": "почему́",
+      "romanization": "pochemú",
+      "meaning": "por qué",
+      "pos": "adverbio",
+      "example": {
+        "text": "Почему ты не спишь?",
+        "translation": "¿Por qué no duermes?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 25
+    },
+    {
+      "id": "ru-0026",
+      "term": "ско́лько",
+      "romanization": "skól'ko",
+      "meaning": "cuánto",
+      "pos": "adverbio",
+      "example": {
+        "text": "Сколько это стоит?",
+        "translation": "¿Cuánto cuesta esto?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 26
+    },
+    {
+      "id": "ru-0027",
+      "term": "оди́н",
+      "romanization": "odín",
+      "meaning": "uno",
+      "pos": "número",
+      "example": {
+        "text": "У меня один брат.",
+        "translation": "Tengo un hermano."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 27
+    },
+    {
+      "id": "ru-0028",
+      "term": "два",
+      "romanization": "dva",
+      "meaning": "dos",
+      "pos": "número",
+      "example": {
+        "text": "Два кофе, пожалуйста.",
+        "translation": "Dos cafés, por favor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 28
+    },
+    {
+      "id": "ru-0029",
+      "term": "три",
+      "romanization": "tri",
+      "meaning": "tres",
+      "pos": "número",
+      "example": {
+        "text": "У меня три книги.",
+        "translation": "Tengo tres libros."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 29
+    },
+    {
+      "id": "ru-0030",
+      "term": "четы́ре",
+      "romanization": "chetýre",
+      "meaning": "cuatro",
+      "pos": "número",
+      "example": {
+        "text": "Сейчас четыре часа.",
+        "translation": "Ahora son las cuatro."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 30
+    },
+    {
+      "id": "ru-0031",
+      "term": "пять",
+      "romanization": "pyat'",
+      "meaning": "cinco",
+      "pos": "número",
+      "example": {
+        "text": "Подождите пять минут.",
+        "translation": "Espere cinco minutos."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 31
+    },
+    {
+      "id": "ru-0032",
+      "term": "шесть",
+      "romanization": "shest'",
+      "meaning": "seis",
+      "pos": "número",
+      "example": {
+        "text": "Я встаю в шесть.",
+        "translation": "Me levanto a las seis."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 32
+    },
+    {
+      "id": "ru-0033",
+      "term": "семь",
+      "romanization": "sem'",
+      "meaning": "siete",
+      "pos": "número",
+      "example": {
+        "text": "В неделе семь дней.",
+        "translation": "La semana tiene siete días."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 33
+    },
+    {
+      "id": "ru-0034",
+      "term": "во́семь",
+      "romanization": "vósem'",
+      "meaning": "ocho",
+      "pos": "número",
+      "example": {
+        "text": "Урок в восемь.",
+        "translation": "La clase es a las ocho."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 34
+    },
+    {
+      "id": "ru-0035",
+      "term": "де́вять",
+      "romanization": "dévyat'",
+      "meaning": "nueve",
+      "pos": "número",
+      "example": {
+        "text": "Ей девять лет.",
+        "translation": "Ella tiene nueve años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 35
+    },
+    {
+      "id": "ru-0036",
+      "term": "де́сять",
+      "romanization": "désyat'",
+      "meaning": "diez",
+      "pos": "número",
+      "example": {
+        "text": "Это стоит десять рублей.",
+        "translation": "Esto cuesta diez rublos."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 36
+    },
+    {
+      "id": "ru-0037",
+      "term": "быть",
+      "romanization": "byt'",
+      "meaning": "ser, estar",
+      "pos": "verbo",
+      "example": {
+        "text": "Я хочу быть врачом.",
+        "translation": "Quiero ser médico."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 37,
+      "notes": "En presente casi no se usa: Я студент = Soy estudiante."
+    },
+    {
+      "id": "ru-0038",
+      "term": "говори́ть",
+      "romanization": "govorít'",
+      "meaning": "hablar",
+      "pos": "verbo",
+      "example": {
+        "text": "Я немного говорю по-русски.",
+        "translation": "Hablo un poco de ruso."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 38
+    },
+    {
+      "id": "ru-0039",
+      "term": "знать",
+      "romanization": "znat'",
+      "meaning": "saber, conocer",
+      "pos": "verbo",
+      "example": {
+        "text": "Я не знаю.",
+        "translation": "No sé."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 39
+    },
+    {
+      "id": "ru-0040",
+      "term": "хоте́ть",
+      "romanization": "khotét'",
+      "meaning": "querer",
+      "pos": "verbo",
+      "example": {
+        "text": "Я хочу кофе.",
+        "translation": "Quiero un café."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 40
+    },
+    {
+      "id": "ru-0041",
+      "term": "идти́",
+      "romanization": "idtí",
+      "meaning": "ir (a pie)",
+      "pos": "verbo",
+      "example": {
+        "text": "Я иду домой.",
+        "translation": "Voy a casa."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 41,
+      "notes": "Verbo de movimiento: a pie y en una dirección. En vehículo: е́хать."
+    },
+    {
+      "id": "ru-0042",
+      "term": "е́хать",
+      "romanization": "yékhat'",
+      "meaning": "ir (en vehículo)",
+      "pos": "verbo",
+      "example": {
+        "text": "Мы едем в Москву.",
+        "translation": "Vamos a Moscú."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 42
+    },
+    {
+      "id": "ru-0043",
+      "term": "есть",
+      "romanization": "yest'",
+      "meaning": "comer",
+      "pos": "verbo",
+      "example": {
+        "text": "Я хочу есть.",
+        "translation": "Tengo hambre."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 43,
+      "notes": "También significa «hay»: У меня есть… = Tengo…"
+    },
+    {
+      "id": "ru-0044",
+      "term": "пить",
+      "romanization": "pit'",
+      "meaning": "beber, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "Я пью воду.",
+        "translation": "Tomo agua."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 44
+    },
+    {
+      "id": "ru-0045",
+      "term": "жить",
+      "romanization": "zhit'",
+      "meaning": "vivir",
+      "pos": "verbo",
+      "example": {
+        "text": "Я живу в Лиме.",
+        "translation": "Vivo en Lima."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 45
+    },
+    {
+      "id": "ru-0046",
+      "term": "рабо́тать",
+      "romanization": "rabótat'",
+      "meaning": "trabajar",
+      "pos": "verbo",
+      "example": {
+        "text": "Она работает в банке.",
+        "translation": "Ella trabaja en un banco."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 46
+    },
+    {
+      "id": "ru-0047",
+      "term": "чита́ть",
+      "romanization": "chitát'",
+      "meaning": "leer",
+      "pos": "verbo",
+      "example": {
+        "text": "Я читаю книгу.",
+        "translation": "Leo un libro."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 47
+    },
+    {
+      "id": "ru-0048",
+      "term": "писа́ть",
+      "romanization": "pisát'",
+      "meaning": "escribir",
+      "pos": "verbo",
+      "example": {
+        "text": "Напишите ваше имя.",
+        "translation": "Escriba su nombre."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 48
+    },
+    {
+      "id": "ru-0049",
+      "term": "смотре́ть",
+      "romanization": "smotrét'",
+      "meaning": "mirar, ver",
+      "pos": "verbo",
+      "example": {
+        "text": "Мы смотрим фильм.",
+        "translation": "Vemos una película."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 49
+    },
+    {
+      "id": "ru-0050",
+      "term": "понима́ть",
+      "romanization": "ponimát'",
+      "meaning": "entender",
+      "pos": "verbo",
+      "example": {
+        "text": "Вы понимаете?",
+        "translation": "¿Entiende?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 50
+    },
+    {
+      "id": "ru-0051",
+      "term": "люби́ть",
+      "romanization": "lyubít'",
+      "meaning": "amar; gustar mucho",
+      "pos": "verbo",
+      "example": {
+        "text": "Я люблю музыку.",
+        "translation": "Me encanta la música."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 51
+    },
+    {
+      "id": "ru-0052",
+      "term": "де́лать",
+      "romanization": "délat'",
+      "meaning": "hacer",
+      "pos": "verbo",
+      "example": {
+        "text": "Что ты делаешь сегодня?",
+        "translation": "¿Qué haces hoy?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 52
+    },
+    {
+      "id": "ru-0053",
+      "term": "спать",
+      "romanization": "spat'",
+      "meaning": "dormir",
+      "pos": "verbo",
+      "example": {
+        "text": "Я хочу спать.",
+        "translation": "Tengo sueño."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 53
+    },
+    {
+      "id": "ru-0054",
+      "term": "мочь",
+      "romanization": "moch'",
+      "meaning": "poder",
+      "pos": "verbo",
+      "example": {
+        "text": "Я могу помочь.",
+        "translation": "Puedo ayudar."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 54
+    },
+    {
+      "id": "ru-0055",
+      "term": "покупа́ть",
+      "romanization": "pokupát'",
+      "meaning": "comprar",
+      "pos": "verbo",
+      "example": {
+        "text": "Я покупаю хлеб.",
+        "translation": "Compro pan."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 55
+    },
+    {
+      "id": "ru-0056",
+      "term": "учи́ть",
+      "romanization": "uchít'",
+      "meaning": "estudiar, aprender (algo)",
+      "pos": "verbo",
+      "example": {
+        "text": "Я учу русский язык.",
+        "translation": "Estoy aprendiendo ruso."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 56
+    },
+    {
+      "id": "ru-0057",
+      "term": "ждать",
+      "romanization": "zhdat'",
+      "meaning": "esperar",
+      "pos": "verbo",
+      "example": {
+        "text": "Я жду автобус.",
+        "translation": "Espero el bus."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 57
+    },
+    {
+      "id": "ru-0058",
+      "term": "вода́",
+      "romanization": "vodá",
+      "meaning": "agua",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Стакан воды, пожалуйста.",
+        "translation": "Un vaso de agua, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 58
+    },
+    {
+      "id": "ru-0059",
+      "term": "чай",
+      "romanization": "chay",
+      "meaning": "té",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Чай с лимоном, пожалуйста.",
+        "translation": "Un té con limón, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 59
+    },
+    {
+      "id": "ru-0060",
+      "term": "ко́фе",
+      "romanization": "kófe",
+      "meaning": "café",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Кофе без сахара.",
+        "translation": "Café sin azúcar."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 60,
+      "notes": "Es masculino (мой кофе) aunque termine en -е."
+    },
+    {
+      "id": "ru-0061",
+      "term": "хлеб",
+      "romanization": "khleb",
+      "meaning": "pan",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Хлеб очень свежий.",
+        "translation": "El pan está muy fresco."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 61
+    },
+    {
+      "id": "ru-0062",
+      "term": "молоко́",
+      "romanization": "molokó",
+      "meaning": "leche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Кофе с молоком.",
+        "translation": "Café con leche."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 62
+    },
+    {
+      "id": "ru-0063",
+      "term": "мя́со",
+      "romanization": "myáso",
+      "meaning": "carne",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Я не ем мясо.",
+        "translation": "No como carne."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 63
+    },
+    {
+      "id": "ru-0064",
+      "term": "ры́ба",
+      "romanization": "rýba",
+      "meaning": "pescado, pez",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Рыба очень вкусная.",
+        "translation": "El pescado está muy rico."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 64
+    },
+    {
+      "id": "ru-0065",
+      "term": "яйцо́",
+      "romanization": "yaytsó",
+      "meaning": "huevo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "На завтрак я ем яйцо.",
+        "translation": "En el desayuno como un huevo."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 65
+    },
+    {
+      "id": "ru-0066",
+      "term": "я́блоко",
+      "romanization": "yábloko",
+      "meaning": "manzana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Это яблоко красное.",
+        "translation": "Esta manzana es roja."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 66
+    },
+    {
+      "id": "ru-0067",
+      "term": "суп",
+      "romanization": "sup",
+      "meaning": "sopa",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Суп очень горячий.",
+        "translation": "La sopa está muy caliente."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 67
+    },
+    {
+      "id": "ru-0068",
+      "term": "вку́сный",
+      "romanization": "vkúsnyy",
+      "meaning": "rico, sabroso",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Очень вкусный суп!",
+        "translation": "¡Qué sopa tan rica!"
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 68
+    },
+    {
+      "id": "ru-0069",
+      "term": "за́втрак",
+      "romanization": "závtrak",
+      "meaning": "desayuno",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Завтрак в восемь.",
+        "translation": "El desayuno es a las ocho."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 69
+    },
+    {
+      "id": "ru-0070",
+      "term": "сего́дня",
+      "romanization": "segódnya",
+      "meaning": "hoy",
+      "pos": "adverbio",
+      "example": {
+        "text": "Сегодня понедельник.",
+        "translation": "Hoy es lunes."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 70,
+      "notes": "La г se pronuncia como v: sevódnya."
+    },
+    {
+      "id": "ru-0071",
+      "term": "за́втра",
+      "romanization": "závtra",
+      "meaning": "mañana",
+      "pos": "adverbio",
+      "example": {
+        "text": "До завтра!",
+        "translation": "¡Hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 71
+    },
+    {
+      "id": "ru-0072",
+      "term": "вчера́",
+      "romanization": "vcherá",
+      "meaning": "ayer",
+      "pos": "adverbio",
+      "example": {
+        "text": "Вчера был дождь.",
+        "translation": "Ayer llovió."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 72
+    },
+    {
+      "id": "ru-0073",
+      "term": "сейча́с",
+      "romanization": "seychás",
+      "meaning": "ahora",
+      "pos": "adverbio",
+      "example": {
+        "text": "Сейчас я занят.",
+        "translation": "Ahora estoy ocupado."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 73
+    },
+    {
+      "id": "ru-0074",
+      "term": "день",
+      "romanization": "den'",
+      "meaning": "día",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Какой сегодня день?",
+        "translation": "¿Qué día es hoy?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 74
+    },
+    {
+      "id": "ru-0075",
+      "term": "неде́ля",
+      "romanization": "nedélya",
+      "meaning": "semana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Я буду там неделю.",
+        "translation": "Estaré allí una semana."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 75
+    },
+    {
+      "id": "ru-0076",
+      "term": "год",
+      "romanization": "god",
+      "meaning": "año",
+      "pos": "sustantivo",
+      "example": {
+        "text": "С Новым годом!",
+        "translation": "¡Feliz año nuevo!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 76
+    },
+    {
+      "id": "ru-0077",
+      "term": "час",
+      "romanization": "chas",
+      "meaning": "hora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Который час?",
+        "translation": "¿Qué hora es?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 77
+    },
+    {
+      "id": "ru-0078",
+      "term": "у́тро",
+      "romanization": "útro",
+      "meaning": "mañana (parte del día)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Утром я пью кофе.",
+        "translation": "Por la mañana tomo café."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 78
+    },
+    {
+      "id": "ru-0079",
+      "term": "ве́чер",
+      "romanization": "vécher",
+      "meaning": "tarde, noche (después de las 6)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Добрый вечер!",
+        "translation": "¡Buenas tardes! / ¡Buenas noches!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 79
+    },
+    {
+      "id": "ru-0080",
+      "term": "ма́ма",
+      "romanization": "máma",
+      "meaning": "mamá",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Моя мама — учитель.",
+        "translation": "Mi mamá es profesora."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 80
+    },
+    {
+      "id": "ru-0081",
+      "term": "па́па",
+      "romanization": "pápa",
+      "meaning": "papá",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Папа на работе.",
+        "translation": "Papá está en el trabajo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 81
+    },
+    {
+      "id": "ru-0082",
+      "term": "брат",
+      "romanization": "brat",
+      "meaning": "hermano",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Мой брат живёт в Москве.",
+        "translation": "Mi hermano vive en Moscú."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 82
+    },
+    {
+      "id": "ru-0083",
+      "term": "сестра́",
+      "romanization": "sestrá",
+      "meaning": "hermana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "У меня есть сестра.",
+        "translation": "Tengo una hermana."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 83
+    },
+    {
+      "id": "ru-0084",
+      "term": "сын",
+      "romanization": "syn",
+      "meaning": "hijo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Его сын студент.",
+        "translation": "Su hijo es estudiante."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 84
+    },
+    {
+      "id": "ru-0085",
+      "term": "дочь",
+      "romanization": "doch'",
+      "meaning": "hija",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Её дочь учится в школе.",
+        "translation": "Su hija va al colegio."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 85
+    },
+    {
+      "id": "ru-0086",
+      "term": "друг",
+      "romanization": "drug",
+      "meaning": "amigo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Он мой лучший друг.",
+        "translation": "Él es mi mejor amigo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 86
+    },
+    {
+      "id": "ru-0087",
+      "term": "челове́к",
+      "romanization": "chelovék",
+      "meaning": "persona",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Он хороший человек.",
+        "translation": "Es una buena persona."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 87,
+      "notes": "Plural irregular: лю́ди (personas, gente)."
+    },
+    {
+      "id": "ru-0088",
+      "term": "ребёнок",
+      "romanization": "rebyónok",
+      "meaning": "niño, bebé",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Ребёнок спит.",
+        "translation": "El bebé duerme."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 88,
+      "notes": "La ё siempre es tónica."
+    },
+    {
+      "id": "ru-0089",
+      "term": "дом",
+      "romanization": "dom",
+      "meaning": "casa",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Это мой дом.",
+        "translation": "Esta es mi casa."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 89,
+      "notes": "До́ма = en casa; домо́й = a casa."
+    },
+    {
+      "id": "ru-0090",
+      "term": "шко́ла",
+      "romanization": "shkóla",
+      "meaning": "escuela, colegio",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Дети идут в школу.",
+        "translation": "Los niños van al colegio."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 90
+    },
+    {
+      "id": "ru-0091",
+      "term": "го́род",
+      "romanization": "górod",
+      "meaning": "ciudad",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Москва — большой город.",
+        "translation": "Moscú es una ciudad grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 91
+    },
+    {
+      "id": "ru-0092",
+      "term": "у́лица",
+      "romanization": "úlitsa",
+      "meaning": "calle",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Я живу на этой улице.",
+        "translation": "Vivo en esta calle."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 92
+    },
+    {
+      "id": "ru-0093",
+      "term": "магази́н",
+      "romanization": "magazín",
+      "meaning": "tienda",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Магазин открыт до девяти.",
+        "translation": "La tienda está abierta hasta las nueve."
+      },
+      "tags": [
+        "A1",
+        "lugares",
+        "falso amigo"
+      ],
+      "rank": 93,
+      "notes": "Falso amigo: no es una revista (журна́л), es una tienda."
+    },
+    {
+      "id": "ru-0094",
+      "term": "рестора́н",
+      "romanization": "restorán",
+      "meaning": "restaurante",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Пойдём в ресторан!",
+        "translation": "¡Vamos a un restaurante!"
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 94
+    },
+    {
+      "id": "ru-0095",
+      "term": "рабо́та",
+      "romanization": "rabóta",
+      "meaning": "trabajo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Я еду на работу.",
+        "translation": "Voy al trabajo."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 95
+    },
+    {
+      "id": "ru-0096",
+      "term": "Росси́я",
+      "romanization": "Rossíya",
+      "meaning": "Rusia",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Я хочу поехать в Россию.",
+        "translation": "Quiero ir a Rusia."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 96
+    },
+    {
+      "id": "ru-0097",
+      "term": "туале́т",
+      "romanization": "tualét",
+      "meaning": "baño",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Где здесь туалет?",
+        "translation": "¿Dónde hay un baño por aquí?"
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 97
+    },
+    {
+      "id": "ru-0098",
+      "term": "большо́й",
+      "romanization": "bol'shóy",
+      "meaning": "grande",
+      "pos": "adjetivo",
+      "example": {
+        "text": "У них большой дом.",
+        "translation": "Tienen una casa grande."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 98
+    },
+    {
+      "id": "ru-0099",
+      "term": "ма́ленький",
+      "romanization": "málen'kiy",
+      "meaning": "pequeño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Это маленькая квартира.",
+        "translation": "Es un departamento pequeño."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 99
+    },
+    {
+      "id": "ru-0100",
+      "term": "хоро́ший",
+      "romanization": "khoróshiy",
+      "meaning": "bueno",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Это хороший фильм.",
+        "translation": "Es una buena película."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 100
+    },
+    {
+      "id": "ru-0101",
+      "term": "плохо́й",
+      "romanization": "plokhóy",
+      "meaning": "malo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Сегодня плохая погода.",
+        "translation": "Hoy hace mal tiempo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 101
+    },
+    {
+      "id": "ru-0102",
+      "term": "но́вый",
+      "romanization": "nóvyy",
+      "meaning": "nuevo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "У меня новый телефон.",
+        "translation": "Tengo un teléfono nuevo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 102
+    },
+    {
+      "id": "ru-0103",
+      "term": "ста́рый",
+      "romanization": "stáryy",
+      "meaning": "viejo, antiguo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Это старый город.",
+        "translation": "Es una ciudad antigua."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 103
+    },
+    {
+      "id": "ru-0104",
+      "term": "хо́лодно",
+      "romanization": "khólodno",
+      "meaning": "hace frío",
+      "pos": "adverbio",
+      "example": {
+        "text": "Зимой очень холодно.",
+        "translation": "En invierno hace mucho frío."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 104
+    },
+    {
+      "id": "ru-0105",
+      "term": "жа́рко",
+      "romanization": "zhárko",
+      "meaning": "hace calor",
+      "pos": "adverbio",
+      "example": {
+        "text": "Летом здесь жарко.",
+        "translation": "En verano aquí hace calor."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 105
+    },
+    {
+      "id": "ru-0106",
+      "term": "хорошо́",
+      "romanization": "khoroshó",
+      "meaning": "bien",
+      "pos": "adverbio",
+      "example": {
+        "text": "Всё хорошо.",
+        "translation": "Todo bien."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 106
+    },
+    {
+      "id": "ru-0107",
+      "term": "до́рого",
+      "romanization": "dórogo",
+      "meaning": "caro (es caro)",
+      "pos": "adverbio",
+      "example": {
+        "text": "Это слишком дорого.",
+        "translation": "Esto es demasiado caro."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 107
+    },
+    {
+      "id": "ru-0108",
+      "term": "кни́га",
+      "romanization": "kníga",
+      "meaning": "libro",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Интересная книга.",
+        "translation": "Un libro interesante."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 108
+    },
+    {
+      "id": "ru-0109",
+      "term": "де́ньги",
+      "romanization": "dén'gi",
+      "meaning": "dinero",
+      "pos": "sustantivo",
+      "example": {
+        "text": "У меня нет денег.",
+        "translation": "No tengo dinero."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 109,
+      "notes": "Siempre en plural."
+    }
+  ]
+}

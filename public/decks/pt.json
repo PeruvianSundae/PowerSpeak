@@ -1,0 +1,1653 @@
+{
+  "lang": "pt",
+  "name": "Portugués (Brasil)",
+  "ttsLang": "pt-BR",
+  "version": 1,
+  "cards": [
+    {
+      "id": "pt-0001",
+      "term": "Olá",
+      "meaning": "hola",
+      "pos": "expresión",
+      "example": {
+        "text": "Olá! Eu me chamo Martín.",
+        "translation": "¡Hola! Me llamo Martín."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "pt-0002",
+      "term": "Tchau",
+      "meaning": "chao, adiós",
+      "pos": "expresión",
+      "example": {
+        "text": "Tchau, até amanhã!",
+        "translation": "¡Chao, hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "pt-0003",
+      "term": "obrigado",
+      "meaning": "gracias",
+      "pos": "expresión",
+      "example": {
+        "text": "Obrigado pela ajuda.",
+        "translation": "Gracias por la ayuda."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 3,
+      "notes": "Un hombre dice «obrigado»; una mujer, «obrigada»."
+    },
+    {
+      "id": "pt-0004",
+      "term": "por favor",
+      "meaning": "por favor",
+      "pos": "expresión",
+      "example": {
+        "text": "Um café, por favor.",
+        "translation": "Un café, por favor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 4
+    },
+    {
+      "id": "pt-0005",
+      "term": "sim",
+      "meaning": "sí",
+      "pos": "expresión",
+      "example": {
+        "text": "Sim, eu quero.",
+        "translation": "Sí, quiero."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "pt-0006",
+      "term": "não",
+      "meaning": "no",
+      "pos": "expresión",
+      "example": {
+        "text": "Não, obrigado.",
+        "translation": "No, gracias."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 6
+    },
+    {
+      "id": "pt-0007",
+      "term": "desculpa",
+      "meaning": "perdón, disculpa",
+      "pos": "expresión",
+      "example": {
+        "text": "Desculpa, não entendi.",
+        "translation": "Perdón, no entendí."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "pt-0008",
+      "term": "bom dia",
+      "meaning": "buenos días",
+      "pos": "expresión",
+      "example": {
+        "text": "Bom dia, professora!",
+        "translation": "¡Buenos días, profesora!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "pt-0009",
+      "term": "boa noite",
+      "meaning": "buenas noches",
+      "pos": "expresión",
+      "example": {
+        "text": "Boa noite, até amanhã.",
+        "translation": "Buenas noches, hasta mañana."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 9,
+      "notes": "Se usa al llegar y al despedirse de noche. Buenas tardes = «boa tarde»."
+    },
+    {
+      "id": "pt-0010",
+      "term": "de nada",
+      "meaning": "de nada",
+      "pos": "expresión",
+      "example": {
+        "text": "Obrigada! — De nada.",
+        "translation": "¡Gracias! —De nada."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 10
+    },
+    {
+      "id": "pt-0011",
+      "term": "tudo bem?",
+      "meaning": "¿todo bien?, ¿qué tal?",
+      "pos": "expresión",
+      "example": {
+        "text": "Oi, tudo bem? — Tudo bem, e você?",
+        "translation": "Hola, ¿qué tal? —Bien, ¿y tú?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 11
+    },
+    {
+      "id": "pt-0012",
+      "term": "eu",
+      "meaning": "yo",
+      "pos": "pronombre",
+      "example": {
+        "text": "Eu sou do Peru.",
+        "translation": "Soy de Perú."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "pt-0013",
+      "term": "você",
+      "meaning": "tú, usted",
+      "pos": "pronombre",
+      "example": {
+        "text": "Você fala espanhol?",
+        "translation": "¿Hablas español?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 13,
+      "notes": "En Brasil «você» es lo normal para «tú» y lleva el verbo en 3.ª persona."
+    },
+    {
+      "id": "pt-0014",
+      "term": "ele",
+      "meaning": "él",
+      "pos": "pronombre",
+      "example": {
+        "text": "Ele é meu irmão.",
+        "translation": "Él es mi hermano."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 14
+    },
+    {
+      "id": "pt-0015",
+      "term": "ela",
+      "meaning": "ella",
+      "pos": "pronombre",
+      "example": {
+        "text": "Ela mora em São Paulo.",
+        "translation": "Ella vive en São Paulo."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 15
+    },
+    {
+      "id": "pt-0016",
+      "term": "nós",
+      "meaning": "nosotros",
+      "pos": "pronombre",
+      "example": {
+        "text": "Nós estudamos juntos.",
+        "translation": "Estudiamos juntos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 16,
+      "notes": "En el habla diaria se usa mucho «a gente» con el verbo en 3.ª persona: a gente estuda."
+    },
+    {
+      "id": "pt-0017",
+      "term": "eles",
+      "meaning": "ellos",
+      "pos": "pronombre",
+      "example": {
+        "text": "Eles são amigos.",
+        "translation": "Ellos son amigos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 17
+    },
+    {
+      "id": "pt-0018",
+      "term": "isto",
+      "meaning": "esto",
+      "pos": "pronombre",
+      "example": {
+        "text": "O que é isto?",
+        "translation": "¿Qué es esto?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 18
+    },
+    {
+      "id": "pt-0019",
+      "term": "o que",
+      "meaning": "qué",
+      "pos": "pronombre",
+      "example": {
+        "text": "O que você quer?",
+        "translation": "¿Qué quieres?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 19
+    },
+    {
+      "id": "pt-0020",
+      "term": "quem",
+      "meaning": "quién",
+      "pos": "pronombre",
+      "example": {
+        "text": "Quem é ela?",
+        "translation": "¿Quién es ella?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 20
+    },
+    {
+      "id": "pt-0021",
+      "term": "onde",
+      "meaning": "dónde",
+      "pos": "adverbio",
+      "example": {
+        "text": "Onde fica o banheiro?",
+        "translation": "¿Dónde está el baño?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 21
+    },
+    {
+      "id": "pt-0022",
+      "term": "quando",
+      "meaning": "cuándo",
+      "pos": "adverbio",
+      "example": {
+        "text": "Quando você chega?",
+        "translation": "¿Cuándo llegas?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 22
+    },
+    {
+      "id": "pt-0023",
+      "term": "como",
+      "meaning": "cómo",
+      "pos": "adverbio",
+      "example": {
+        "text": "Como você se chama?",
+        "translation": "¿Cómo te llamas?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 23
+    },
+    {
+      "id": "pt-0024",
+      "term": "por que",
+      "meaning": "por qué",
+      "pos": "adverbio",
+      "example": {
+        "text": "Por que você está triste?",
+        "translation": "¿Por qué estás triste?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 24,
+      "notes": "En la pregunta va separado («por que»); en la respuesta, junto («porque»)."
+    },
+    {
+      "id": "pt-0025",
+      "term": "quanto",
+      "meaning": "cuánto",
+      "pos": "adverbio",
+      "example": {
+        "text": "Quanto custa?",
+        "translation": "¿Cuánto cuesta?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 25
+    },
+    {
+      "id": "pt-0026",
+      "term": "um",
+      "meaning": "uno",
+      "pos": "número",
+      "example": {
+        "text": "Eu tenho um irmão.",
+        "translation": "Tengo un hermano."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 26,
+      "notes": "Femenino: «uma»."
+    },
+    {
+      "id": "pt-0027",
+      "term": "dois",
+      "meaning": "dos",
+      "pos": "número",
+      "example": {
+        "text": "Dois cafés, por favor.",
+        "translation": "Dos cafés, por favor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 27,
+      "notes": "Femenino: «duas»."
+    },
+    {
+      "id": "pt-0028",
+      "term": "três",
+      "meaning": "tres",
+      "pos": "número",
+      "example": {
+        "text": "Tenho três livros.",
+        "translation": "Tengo tres libros."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 28
+    },
+    {
+      "id": "pt-0029",
+      "term": "quatro",
+      "meaning": "cuatro",
+      "pos": "número",
+      "example": {
+        "text": "São quatro horas.",
+        "translation": "Son las cuatro."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 29
+    },
+    {
+      "id": "pt-0030",
+      "term": "cinco",
+      "meaning": "cinco",
+      "pos": "número",
+      "example": {
+        "text": "Ela tem cinco anos.",
+        "translation": "Ella tiene cinco años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 30
+    },
+    {
+      "id": "pt-0031",
+      "term": "seis",
+      "meaning": "seis",
+      "pos": "número",
+      "example": {
+        "text": "A aula começa às seis.",
+        "translation": "La clase empieza a las seis."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 31
+    },
+    {
+      "id": "pt-0032",
+      "term": "sete",
+      "meaning": "siete",
+      "pos": "número",
+      "example": {
+        "text": "A semana tem sete dias.",
+        "translation": "La semana tiene siete días."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 32
+    },
+    {
+      "id": "pt-0033",
+      "term": "oito",
+      "meaning": "ocho",
+      "pos": "número",
+      "example": {
+        "text": "Eu acordo às oito.",
+        "translation": "Me despierto a las ocho."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 33
+    },
+    {
+      "id": "pt-0034",
+      "term": "nove",
+      "meaning": "nueve",
+      "pos": "número",
+      "example": {
+        "text": "Ele tem nove anos.",
+        "translation": "Él tiene nueve años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 34
+    },
+    {
+      "id": "pt-0035",
+      "term": "dez",
+      "meaning": "diez",
+      "pos": "número",
+      "example": {
+        "text": "Custa dez reais.",
+        "translation": "Cuesta diez reales."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 35
+    },
+    {
+      "id": "pt-0036",
+      "term": "ser",
+      "meaning": "ser",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu sou estudante.",
+        "translation": "Soy estudiante."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 36
+    },
+    {
+      "id": "pt-0037",
+      "term": "estar",
+      "meaning": "estar",
+      "pos": "verbo",
+      "example": {
+        "text": "Estou cansado.",
+        "translation": "Estoy cansado."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 37
+    },
+    {
+      "id": "pt-0038",
+      "term": "ter",
+      "meaning": "tener",
+      "pos": "verbo",
+      "example": {
+        "text": "Você tem tempo?",
+        "translation": "¿Tienes tiempo?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 38,
+      "notes": "También se usa como «haber»: «Tem pão?» = ¿Hay pan?"
+    },
+    {
+      "id": "pt-0039",
+      "term": "ir",
+      "meaning": "ir",
+      "pos": "verbo",
+      "example": {
+        "text": "Vou ao mercado.",
+        "translation": "Voy al mercado."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 39
+    },
+    {
+      "id": "pt-0040",
+      "term": "vir",
+      "meaning": "venir",
+      "pos": "verbo",
+      "example": {
+        "text": "Ela vem amanhã.",
+        "translation": "Ella viene mañana."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 40
+    },
+    {
+      "id": "pt-0041",
+      "term": "comer",
+      "meaning": "comer",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu como arroz todo dia.",
+        "translation": "Como arroz todos los días."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 41
+    },
+    {
+      "id": "pt-0042",
+      "term": "beber",
+      "meaning": "beber, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "Quero beber água.",
+        "translation": "Quiero tomar agua."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 42
+    },
+    {
+      "id": "pt-0043",
+      "term": "falar",
+      "meaning": "hablar",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu falo um pouco de português.",
+        "translation": "Hablo un poco de portugués."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 43
+    },
+    {
+      "id": "pt-0044",
+      "term": "ver",
+      "meaning": "ver",
+      "pos": "verbo",
+      "example": {
+        "text": "Vamos ver um filme?",
+        "translation": "¿Vemos una película?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 44
+    },
+    {
+      "id": "pt-0045",
+      "term": "querer",
+      "meaning": "querer",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu quero um suco.",
+        "translation": "Quiero un jugo."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 45
+    },
+    {
+      "id": "pt-0046",
+      "term": "fazer",
+      "meaning": "hacer",
+      "pos": "verbo",
+      "example": {
+        "text": "O que você faz?",
+        "translation": "¿A qué te dedicas?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 46
+    },
+    {
+      "id": "pt-0047",
+      "term": "saber",
+      "meaning": "saber",
+      "pos": "verbo",
+      "example": {
+        "text": "Não sei.",
+        "translation": "No sé."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 47
+    },
+    {
+      "id": "pt-0048",
+      "term": "dormir",
+      "meaning": "dormir",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu durmo cedo.",
+        "translation": "Duermo temprano."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 48
+    },
+    {
+      "id": "pt-0049",
+      "term": "trabalhar",
+      "meaning": "trabajar",
+      "pos": "verbo",
+      "example": {
+        "text": "Ela trabalha num hospital.",
+        "translation": "Ella trabaja en un hospital."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 49
+    },
+    {
+      "id": "pt-0050",
+      "term": "estudar",
+      "meaning": "estudiar",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu estudo à noite.",
+        "translation": "Estudio por la noche."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 50
+    },
+    {
+      "id": "pt-0051",
+      "term": "ler",
+      "meaning": "leer",
+      "pos": "verbo",
+      "example": {
+        "text": "Gosto de ler livros.",
+        "translation": "Me gusta leer libros."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 51
+    },
+    {
+      "id": "pt-0052",
+      "term": "escrever",
+      "meaning": "escribir",
+      "pos": "verbo",
+      "example": {
+        "text": "Escreva seu nome aqui.",
+        "translation": "Escribe tu nombre aquí."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 52
+    },
+    {
+      "id": "pt-0053",
+      "term": "comprar",
+      "meaning": "comprar",
+      "pos": "verbo",
+      "example": {
+        "text": "Preciso comprar pão.",
+        "translation": "Necesito comprar pan."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 53
+    },
+    {
+      "id": "pt-0054",
+      "term": "morar",
+      "meaning": "vivir (residir)",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu moro em Lima.",
+        "translation": "Vivo en Lima."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 54,
+      "notes": "Para «vivir en un lugar» se usa «morar»; «viver» es vivir (la vida)."
+    },
+    {
+      "id": "pt-0055",
+      "term": "gostar",
+      "meaning": "gustar",
+      "pos": "verbo",
+      "example": {
+        "text": "Eu gosto de café.",
+        "translation": "Me gusta el café."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 55,
+      "notes": "Va con «de» y la persona es el sujeto: eu gosto de… = me gusta…"
+    },
+    {
+      "id": "pt-0056",
+      "term": "entender",
+      "meaning": "entender",
+      "pos": "verbo",
+      "example": {
+        "text": "Você entende?",
+        "translation": "¿Entiendes?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 56
+    },
+    {
+      "id": "pt-0057",
+      "term": "poder",
+      "meaning": "poder",
+      "pos": "verbo",
+      "example": {
+        "text": "Posso entrar?",
+        "translation": "¿Puedo entrar?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 57
+    },
+    {
+      "id": "pt-0058",
+      "term": "precisar",
+      "meaning": "necesitar",
+      "pos": "verbo",
+      "example": {
+        "text": "Preciso de ajuda.",
+        "translation": "Necesito ayuda."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 58
+    },
+    {
+      "id": "pt-0059",
+      "term": "chegar",
+      "meaning": "llegar",
+      "pos": "verbo",
+      "example": {
+        "text": "O ônibus chegou.",
+        "translation": "Llegó el bus."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 59
+    },
+    {
+      "id": "pt-0060",
+      "term": "pegar",
+      "meaning": "agarrar, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "Pegue o ônibus dez.",
+        "translation": "Toma el bus diez."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "falso amigo"
+      ],
+      "rank": 60,
+      "notes": "Falso amigo: «pegar» no es golpear, es agarrar o tomar (un bus)."
+    },
+    {
+      "id": "pt-0061",
+      "term": "água",
+      "meaning": "agua",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Um copo de água, por favor.",
+        "translation": "Un vaso de agua, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 61
+    },
+    {
+      "id": "pt-0062",
+      "term": "café",
+      "meaning": "café",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Eu tomo café de manhã.",
+        "translation": "Tomo café por la mañana."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 62,
+      "notes": "Desayuno = «café da manhã»."
+    },
+    {
+      "id": "pt-0063",
+      "term": "pão",
+      "meaning": "pan",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Pão com manteiga.",
+        "translation": "Pan con mantequilla."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 63
+    },
+    {
+      "id": "pt-0064",
+      "term": "arroz",
+      "meaning": "arroz",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Arroz e feijão.",
+        "translation": "Arroz con frijoles."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 64
+    },
+    {
+      "id": "pt-0065",
+      "term": "feijão",
+      "meaning": "frijol",
+      "pos": "sustantivo",
+      "example": {
+        "text": "O feijão está pronto.",
+        "translation": "Los frijoles están listos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 65
+    },
+    {
+      "id": "pt-0066",
+      "term": "carne",
+      "meaning": "carne",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Eu não como carne.",
+        "translation": "No como carne."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 66
+    },
+    {
+      "id": "pt-0067",
+      "term": "peixe",
+      "meaning": "pescado, pez",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Hoje tem peixe.",
+        "translation": "Hoy hay pescado."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 67
+    },
+    {
+      "id": "pt-0068",
+      "term": "fruta",
+      "meaning": "fruta",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Gosto de fruta.",
+        "translation": "Me gusta la fruta."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 68
+    },
+    {
+      "id": "pt-0069",
+      "term": "leite",
+      "meaning": "leche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Café com leite.",
+        "translation": "Café con leche."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 69
+    },
+    {
+      "id": "pt-0070",
+      "term": "ovo",
+      "meaning": "huevo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Quero dois ovos.",
+        "translation": "Quiero dos huevos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 70
+    },
+    {
+      "id": "pt-0071",
+      "term": "polvo",
+      "meaning": "pulpo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "O polvo tem oito braços.",
+        "translation": "El pulpo tiene ocho brazos."
+      },
+      "tags": [
+        "A1",
+        "comida",
+        "falso amigo"
+      ],
+      "rank": 71,
+      "notes": "Falso amigo: «polvo» es pulpo. El polvo (suciedad) se dice «pó» o «poeira»."
+    },
+    {
+      "id": "pt-0072",
+      "term": "suco",
+      "meaning": "jugo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Um suco de laranja.",
+        "translation": "Un jugo de naranja."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 72
+    },
+    {
+      "id": "pt-0073",
+      "term": "hoje",
+      "meaning": "hoy",
+      "pos": "adverbio",
+      "example": {
+        "text": "Hoje está calor.",
+        "translation": "Hoy hace calor."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 73
+    },
+    {
+      "id": "pt-0074",
+      "term": "amanhã",
+      "meaning": "mañana (el día siguiente)",
+      "pos": "adverbio",
+      "example": {
+        "text": "Até amanhã!",
+        "translation": "¡Hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 74,
+      "notes": "La mañana (parte del día) es «a manhã»."
+    },
+    {
+      "id": "pt-0075",
+      "term": "ontem",
+      "meaning": "ayer",
+      "pos": "adverbio",
+      "example": {
+        "text": "Ontem choveu.",
+        "translation": "Ayer llovió."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 75
+    },
+    {
+      "id": "pt-0076",
+      "term": "agora",
+      "meaning": "ahora",
+      "pos": "adverbio",
+      "example": {
+        "text": "Agora não posso.",
+        "translation": "Ahora no puedo."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 76
+    },
+    {
+      "id": "pt-0077",
+      "term": "dia",
+      "meaning": "día",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Que dia é hoje?",
+        "translation": "¿Qué día es hoy?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 77
+    },
+    {
+      "id": "pt-0078",
+      "term": "semana",
+      "meaning": "semana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Até a próxima semana.",
+        "translation": "Hasta la próxima semana."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 78
+    },
+    {
+      "id": "pt-0079",
+      "term": "ano",
+      "meaning": "año",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Feliz ano novo!",
+        "translation": "¡Feliz año nuevo!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 79
+    },
+    {
+      "id": "pt-0080",
+      "term": "hora",
+      "meaning": "hora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Que horas são?",
+        "translation": "¿Qué hora es?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 80
+    },
+    {
+      "id": "pt-0081",
+      "term": "mãe",
+      "meaning": "madre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Minha mãe é professora.",
+        "translation": "Mi madre es profesora."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 81
+    },
+    {
+      "id": "pt-0082",
+      "term": "pai",
+      "meaning": "padre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Meu pai trabalha muito.",
+        "translation": "Mi padre trabaja mucho."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 82
+    },
+    {
+      "id": "pt-0083",
+      "term": "irmão",
+      "meaning": "hermano",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Tenho um irmão mais velho.",
+        "translation": "Tengo un hermano mayor."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 83
+    },
+    {
+      "id": "pt-0084",
+      "term": "irmã",
+      "meaning": "hermana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Minha irmã mora no Rio.",
+        "translation": "Mi hermana vive en Río."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 84
+    },
+    {
+      "id": "pt-0085",
+      "term": "filho",
+      "meaning": "hijo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "O filho dela tem dez anos.",
+        "translation": "Su hijo tiene diez años."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 85
+    },
+    {
+      "id": "pt-0086",
+      "term": "amigo",
+      "meaning": "amigo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Ele é meu melhor amigo.",
+        "translation": "Él es mi mejor amigo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 86
+    },
+    {
+      "id": "pt-0087",
+      "term": "criança",
+      "meaning": "niño, niña",
+      "pos": "sustantivo",
+      "example": {
+        "text": "A criança está dormindo.",
+        "translation": "El niño está durmiendo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 87,
+      "notes": "Siempre es femenino: «a criança», sea niño o niña."
+    },
+    {
+      "id": "pt-0088",
+      "term": "casa",
+      "meaning": "casa",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Estou em casa.",
+        "translation": "Estoy en casa."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 88
+    },
+    {
+      "id": "pt-0089",
+      "term": "escola",
+      "meaning": "escuela",
+      "pos": "sustantivo",
+      "example": {
+        "text": "As crianças vão à escola.",
+        "translation": "Los niños van a la escuela."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 89
+    },
+    {
+      "id": "pt-0090",
+      "term": "cidade",
+      "meaning": "ciudad",
+      "pos": "sustantivo",
+      "example": {
+        "text": "São Paulo é uma cidade grande.",
+        "translation": "São Paulo es una ciudad grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 90
+    },
+    {
+      "id": "pt-0091",
+      "term": "rua",
+      "meaning": "calle",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Moro nesta rua.",
+        "translation": "Vivo en esta calle."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 91
+    },
+    {
+      "id": "pt-0092",
+      "term": "loja",
+      "meaning": "tienda",
+      "pos": "sustantivo",
+      "example": {
+        "text": "A loja fecha às seis.",
+        "translation": "La tienda cierra a las seis."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 92
+    },
+    {
+      "id": "pt-0093",
+      "term": "banheiro",
+      "meaning": "baño",
+      "pos": "sustantivo",
+      "example": {
+        "text": "O banheiro está ocupado.",
+        "translation": "El baño está ocupado."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 93
+    },
+    {
+      "id": "pt-0094",
+      "term": "trabalho",
+      "meaning": "trabajo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Vou para o trabalho de ônibus.",
+        "translation": "Voy al trabajo en bus."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 94
+    },
+    {
+      "id": "pt-0095",
+      "term": "grande",
+      "meaning": "grande",
+      "pos": "adjetivo",
+      "example": {
+        "text": "A casa é grande.",
+        "translation": "La casa es grande."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 95
+    },
+    {
+      "id": "pt-0096",
+      "term": "pequeno",
+      "meaning": "pequeño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Um carro pequeno.",
+        "translation": "Un carro pequeño."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 96
+    },
+    {
+      "id": "pt-0097",
+      "term": "bom",
+      "meaning": "bueno",
+      "pos": "adjetivo",
+      "example": {
+        "text": "O livro é bom.",
+        "translation": "El libro es bueno."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 97,
+      "notes": "Femenino: «boa»."
+    },
+    {
+      "id": "pt-0098",
+      "term": "ruim",
+      "meaning": "malo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "O tempo está ruim.",
+        "translation": "El tiempo está malo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 98,
+      "notes": "«Mau» también existe, pero «ruim» es lo más usado."
+    },
+    {
+      "id": "pt-0099",
+      "term": "bonito",
+      "meaning": "bonito",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Que dia bonito!",
+        "translation": "¡Qué día tan bonito!"
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 99
+    },
+    {
+      "id": "pt-0100",
+      "term": "esquisito",
+      "meaning": "raro, extraño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Que cheiro esquisito!",
+        "translation": "¡Qué olor tan raro!"
+      },
+      "tags": [
+        "A1",
+        "adjetivos",
+        "falso amigo"
+      ],
+      "rank": 100,
+      "notes": "Falso amigo: «esquisito» significa raro, no exquisito (= «delicioso»)."
+    },
+    {
+      "id": "pt-0101",
+      "term": "barato",
+      "meaning": "barato",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Este restaurante é barato.",
+        "translation": "Este restaurante es barato."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 101
+    },
+    {
+      "id": "pt-0102",
+      "term": "caro",
+      "meaning": "caro",
+      "pos": "adjetivo",
+      "example": {
+        "text": "O táxi é caro.",
+        "translation": "El taxi es caro."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 102
+    },
+    {
+      "id": "pt-0103",
+      "term": "quente",
+      "meaning": "caliente",
+      "pos": "adjetivo",
+      "example": {
+        "text": "O café está quente.",
+        "translation": "El café está caliente."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 103
+    },
+    {
+      "id": "pt-0104",
+      "term": "frio",
+      "meaning": "frío",
+      "pos": "adjetivo",
+      "example": {
+        "text": "Hoje está frio.",
+        "translation": "Hoy hace frío."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 104
+    },
+    {
+      "id": "pt-0105",
+      "term": "livro",
+      "meaning": "libro",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Estou lendo um livro.",
+        "translation": "Estoy leyendo un libro."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 105
+    },
+    {
+      "id": "pt-0106",
+      "term": "dinheiro",
+      "meaning": "dinero",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Não tenho dinheiro.",
+        "translation": "No tengo dinero."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 106
+    },
+    {
+      "id": "pt-0107",
+      "term": "borracha",
+      "meaning": "goma de borrar",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Pode me emprestar a borracha?",
+        "translation": "¿Me prestas la goma de borrar?"
+      },
+      "tags": [
+        "A1",
+        "objetos",
+        "falso amigo"
+      ],
+      "rank": 107,
+      "notes": "Falso amigo: «borracha» es goma de borrar (o caucho). Borracha = «bêbada»."
+    },
+    {
+      "id": "pt-0108",
+      "term": "apelido",
+      "meaning": "apodo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Meu apelido é Tico.",
+        "translation": "Mi apodo es Tico."
+      },
+      "tags": [
+        "A1",
+        "objetos",
+        "falso amigo"
+      ],
+      "rank": 108,
+      "notes": "Falso amigo: el apellido se dice «sobrenome»."
+    }
+  ]
+}
