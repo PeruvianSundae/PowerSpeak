@@ -1,5 +1,5 @@
 // Cola de la sesión (docs/SPEC.md, sección 7). Funciones puras.
-import type { Card, ReviewState } from '../types';
+import type { Card, LangCode, Meta, ReviewState, Settings } from '../types';
 import { dayKey, learningDueAt } from './sm2';
 
 export type QueueKind = 'learning' | 'review' | 'new';
@@ -123,4 +123,14 @@ export function afterReview(session: SessionState, next: ReviewState): SessionSt
   const dueAt = learningDueAt(next);
   if (dueAt !== null) learning.push({ cardId: next.cardId, dueAt });
   return { queue: session.queue.filter((q) => q.cardId !== next.cardId), learning };
+}
+
+/** Límites de la cola para un idioma a partir de los ajustes y los contadores del día. */
+export function limitsFor(lang: LangCode, settings: Settings, meta: Meta): QueueLimits {
+  return {
+    newPerDay: settings.langs[lang].newPerDay,
+    maxReviewsPerDay: settings.langs[lang].maxReviewsPerDay,
+    newIntroducedToday: meta.newIntroducedToday[lang] ?? 0,
+    reviewsDoneToday: meta.reviewsDoneToday[lang] ?? 0,
+  };
 }

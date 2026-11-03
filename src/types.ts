@@ -4,6 +4,14 @@ export type LangCode = 'pt' | 'ja' | 'zh' | 'ru' | 'en';
 
 export const LANGS: LangCode[] = ['pt', 'ja', 'zh', 'ru', 'en'];
 
+export const LANG_INFO: Record<LangCode, { name: string; flag: string; ttsLang: string; sample: string }> = {
+  pt: { name: 'Portugués (Brasil)', flag: '🇧🇷', ttsLang: 'pt-BR', sample: 'Olá, tudo bem?' },
+  ja: { name: 'Japonés', flag: '🇯🇵', ttsLang: 'ja-JP', sample: 'こんにちは' },
+  zh: { name: 'Chino mandarín', flag: '🇨🇳', ttsLang: 'zh-CN', sample: '你好' },
+  ru: { name: 'Ruso', flag: '🇷🇺', ttsLang: 'ru-RU', sample: 'Привет' },
+  en: { name: 'Inglés', flag: '🇺🇸', ttsLang: 'en-US', sample: 'Hello, how are you?' },
+};
+
 export type PartOfSpeech =
   | 'sustantivo'
   | 'verbo'
@@ -13,6 +21,17 @@ export type PartOfSpeech =
   | 'expresión'
   | 'número'
   | 'otro';
+
+export const POS_LIST: PartOfSpeech[] = [
+  'sustantivo',
+  'verbo',
+  'adjetivo',
+  'adverbio',
+  'pronombre',
+  'expresión',
+  'número',
+  'otro',
+];
 
 export interface Card {
   id: string; // "ja-0001", único y estable (no reutilizar)
