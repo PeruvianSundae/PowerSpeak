@@ -1,0 +1,1974 @@
+{
+  "lang": "ja",
+  "name": "Japonés",
+  "ttsLang": "ja-JP",
+  "version": 1,
+  "cards": [
+    {
+      "id": "ja-0001",
+      "term": "こんにちは",
+      "romanization": "konnichiwa",
+      "meaning": "hola, buenas tardes",
+      "pos": "expresión",
+      "example": {
+        "text": "こんにちは、田中さん。",
+        "reading": "こんにちは、たなかさん。",
+        "translation": "Hola, señor Tanaka."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "ja-0002",
+      "term": "さようなら",
+      "romanization": "sayōnara",
+      "meaning": "adiós",
+      "pos": "expresión",
+      "example": {
+        "text": "先生、さようなら。",
+        "reading": "せんせい、さようなら。",
+        "translation": "Adiós, profesor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 2,
+      "notes": "Entre amigos se dice más «じゃあね» o «またね»."
+    },
+    {
+      "id": "ja-0003",
+      "term": "ありがとう",
+      "romanization": "arigatō",
+      "meaning": "gracias",
+      "pos": "expresión",
+      "example": {
+        "text": "手伝ってくれてありがとう。",
+        "reading": "てつだってくれてありがとう。",
+        "translation": "Gracias por ayudarme."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 3,
+      "notes": "Más formal: ありがとうございます."
+    },
+    {
+      "id": "ja-0004",
+      "term": "すみません",
+      "romanization": "sumimasen",
+      "meaning": "disculpe, perdón",
+      "pos": "expresión",
+      "example": {
+        "text": "すみません、駅はどこですか。",
+        "reading": "すみません、えきはどこですか。",
+        "translation": "Disculpe, ¿dónde está la estación?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 4,
+      "notes": "También sirve para llamar al mesero o para agradecer una molestia."
+    },
+    {
+      "id": "ja-0005",
+      "term": "おはよう",
+      "romanization": "ohayō",
+      "meaning": "buenos días",
+      "pos": "expresión",
+      "example": {
+        "text": "おはようございます、先生。",
+        "reading": "おはようございます、せんせい。",
+        "translation": "Buenos días, profesor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 5,
+      "notes": "Formal: おはようございます."
+    },
+    {
+      "id": "ja-0006",
+      "term": "こんばんは",
+      "romanization": "konbanwa",
+      "meaning": "buenas noches (saludo)",
+      "pos": "expresión",
+      "example": {
+        "text": "こんばんは、元気ですか。",
+        "reading": "こんばんは、げんきですか。",
+        "translation": "Buenas noches, ¿cómo estás?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 6
+    },
+    {
+      "id": "ja-0007",
+      "term": "おやすみなさい",
+      "romanization": "oyasuminasai",
+      "meaning": "buenas noches (al ir a dormir)",
+      "pos": "expresión",
+      "example": {
+        "text": "もう寝ます。おやすみなさい。",
+        "reading": "もうねます。おやすみなさい。",
+        "translation": "Ya me voy a dormir. Buenas noches."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "ja-0008",
+      "term": "はい",
+      "romanization": "hai",
+      "meaning": "sí",
+      "pos": "expresión",
+      "example": {
+        "text": "はい、わかりました。",
+        "translation": "Sí, entendido."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "ja-0009",
+      "term": "いいえ",
+      "romanization": "iie",
+      "meaning": "no",
+      "pos": "expresión",
+      "example": {
+        "text": "いいえ、違います。",
+        "reading": "いいえ、ちがいます。",
+        "translation": "No, no es así."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "ja-0010",
+      "term": "お願いします",
+      "reading": "おねがいします",
+      "romanization": "onegaishimasu",
+      "meaning": "por favor (al pedir algo)",
+      "pos": "expresión",
+      "example": {
+        "text": "コーヒーをお願いします。",
+        "reading": "コーヒーをおねがいします。",
+        "translation": "Un café, por favor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 10
+    },
+    {
+      "id": "ja-0011",
+      "term": "いただきます",
+      "romanization": "itadakimasu",
+      "meaning": "¡buen provecho! (antes de comer)",
+      "pos": "expresión",
+      "example": {
+        "text": "いただきます！おいしそう。",
+        "translation": "¡Buen provecho! Se ve delicioso."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 11,
+      "notes": "Después de comer se dice ごちそうさまでした."
+    },
+    {
+      "id": "ja-0012",
+      "term": "元気",
+      "reading": "げんき",
+      "romanization": "genki",
+      "meaning": "sano, con ánimo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "お元気ですか。",
+        "reading": "おげんきですか。",
+        "translation": "¿Cómo está usted?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "ja-0013",
+      "term": "私",
+      "reading": "わたし",
+      "romanization": "watashi",
+      "meaning": "yo",
+      "pos": "pronombre",
+      "example": {
+        "text": "私はペルー人です。",
+        "reading": "わたしはペルーじんです。",
+        "translation": "Soy peruano."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 13
+    },
+    {
+      "id": "ja-0014",
+      "term": "あなた",
+      "romanization": "anata",
+      "meaning": "tú, usted",
+      "pos": "pronombre",
+      "example": {
+        "text": "あなたの名前は何ですか。",
+        "reading": "あなたのなまえはなんですか。",
+        "translation": "¿Cuál es tu nombre?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 14,
+      "notes": "Se usa poco: lo normal es decir el nombre de la persona + さん."
+    },
+    {
+      "id": "ja-0015",
+      "term": "彼",
+      "reading": "かれ",
+      "romanization": "kare",
+      "meaning": "él",
+      "pos": "pronombre",
+      "example": {
+        "text": "彼は学生です。",
+        "reading": "かれはがくせいです。",
+        "translation": "Él es estudiante."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 15
+    },
+    {
+      "id": "ja-0016",
+      "term": "彼女",
+      "reading": "かのじょ",
+      "romanization": "kanojo",
+      "meaning": "ella; novia",
+      "pos": "pronombre",
+      "example": {
+        "text": "彼女は医者です。",
+        "reading": "かのじょはいしゃです。",
+        "translation": "Ella es médica."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 16
+    },
+    {
+      "id": "ja-0017",
+      "term": "私たち",
+      "reading": "わたしたち",
+      "romanization": "watashitachi",
+      "meaning": "nosotros",
+      "pos": "pronombre",
+      "example": {
+        "text": "私たちは友達です。",
+        "reading": "わたしたちはともだちです。",
+        "translation": "Somos amigos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 17
+    },
+    {
+      "id": "ja-0018",
+      "term": "これ",
+      "romanization": "kore",
+      "meaning": "esto",
+      "pos": "pronombre",
+      "example": {
+        "text": "これは何ですか。",
+        "reading": "これはなんですか。",
+        "translation": "¿Qué es esto?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 18
+    },
+    {
+      "id": "ja-0019",
+      "term": "それ",
+      "romanization": "sore",
+      "meaning": "eso",
+      "pos": "pronombre",
+      "example": {
+        "text": "それは私の本です。",
+        "reading": "それはわたしのほんです。",
+        "translation": "Eso es mi libro."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 19
+    },
+    {
+      "id": "ja-0020",
+      "term": "何",
+      "reading": "なに",
+      "romanization": "nani",
+      "meaning": "qué",
+      "pos": "pronombre",
+      "example": {
+        "text": "何を食べますか。",
+        "reading": "なにをたべますか。",
+        "translation": "¿Qué vas a comer?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 20,
+      "notes": "Delante de です, の o contadores se lee なん: 何ですか (nan desu ka)."
+    },
+    {
+      "id": "ja-0021",
+      "term": "誰",
+      "reading": "だれ",
+      "romanization": "dare",
+      "meaning": "quién",
+      "pos": "pronombre",
+      "example": {
+        "text": "あの人は誰ですか。",
+        "reading": "あのひとはだれですか。",
+        "translation": "¿Quién es esa persona?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 21
+    },
+    {
+      "id": "ja-0022",
+      "term": "どこ",
+      "romanization": "doko",
+      "meaning": "dónde",
+      "pos": "pronombre",
+      "example": {
+        "text": "トイレはどこですか。",
+        "translation": "¿Dónde está el baño?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 22
+    },
+    {
+      "id": "ja-0023",
+      "term": "いつ",
+      "romanization": "itsu",
+      "meaning": "cuándo",
+      "pos": "adverbio",
+      "example": {
+        "text": "誕生日はいつですか。",
+        "reading": "たんじょうびはいつですか。",
+        "translation": "¿Cuándo es tu cumpleaños?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 23
+    },
+    {
+      "id": "ja-0024",
+      "term": "どう",
+      "romanization": "dō",
+      "meaning": "cómo, qué tal",
+      "pos": "adverbio",
+      "example": {
+        "text": "日本語はどうですか。",
+        "reading": "にほんごはどうですか。",
+        "translation": "¿Qué tal el japonés?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 24
+    },
+    {
+      "id": "ja-0025",
+      "term": "いくら",
+      "romanization": "ikura",
+      "meaning": "cuánto (precio)",
+      "pos": "adverbio",
+      "example": {
+        "text": "これはいくらですか。",
+        "translation": "¿Cuánto cuesta esto?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 25
+    },
+    {
+      "id": "ja-0026",
+      "term": "一",
+      "reading": "いち",
+      "romanization": "ichi",
+      "meaning": "uno",
+      "pos": "número",
+      "example": {
+        "text": "今、一時です。",
+        "reading": "いま、いちじです。",
+        "translation": "Ahora es la una."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 26
+    },
+    {
+      "id": "ja-0027",
+      "term": "二",
+      "reading": "に",
+      "romanization": "ni",
+      "meaning": "dos",
+      "pos": "número",
+      "example": {
+        "text": "二月は寒いです。",
+        "reading": "にがつはさむいです。",
+        "translation": "En febrero hace frío."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 27
+    },
+    {
+      "id": "ja-0028",
+      "term": "三",
+      "reading": "さん",
+      "romanization": "san",
+      "meaning": "tres",
+      "pos": "número",
+      "example": {
+        "text": "三時に会いましょう。",
+        "reading": "さんじにあいましょう。",
+        "translation": "Veámonos a las tres."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 28
+    },
+    {
+      "id": "ja-0029",
+      "term": "四",
+      "reading": "よん",
+      "romanization": "yon",
+      "meaning": "cuatro",
+      "pos": "número",
+      "example": {
+        "text": "四人家族です。",
+        "reading": "よにんかぞくです。",
+        "translation": "Somos una familia de cuatro."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 29,
+      "notes": "También se lee し, pero se evita porque suena como «muerte» (死)."
+    },
+    {
+      "id": "ja-0030",
+      "term": "五",
+      "reading": "ご",
+      "romanization": "go",
+      "meaning": "cinco",
+      "pos": "número",
+      "example": {
+        "text": "五分待ってください。",
+        "reading": "ごふんまってください。",
+        "translation": "Espere cinco minutos, por favor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 30
+    },
+    {
+      "id": "ja-0031",
+      "term": "六",
+      "reading": "ろく",
+      "romanization": "roku",
+      "meaning": "seis",
+      "pos": "número",
+      "example": {
+        "text": "六時に起きます。",
+        "reading": "ろくじにおきます。",
+        "translation": "Me levanto a las seis."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 31
+    },
+    {
+      "id": "ja-0032",
+      "term": "七",
+      "reading": "なな",
+      "romanization": "nana",
+      "meaning": "siete",
+      "pos": "número",
+      "example": {
+        "text": "七百円です。",
+        "reading": "ななひゃくえんです。",
+        "translation": "Son setecientos yenes."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 32,
+      "notes": "También se lee しち."
+    },
+    {
+      "id": "ja-0033",
+      "term": "八",
+      "reading": "はち",
+      "romanization": "hachi",
+      "meaning": "ocho",
+      "pos": "número",
+      "example": {
+        "text": "八時に家を出ます。",
+        "reading": "はちじにいえをでます。",
+        "translation": "Salgo de casa a las ocho."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 33
+    },
+    {
+      "id": "ja-0034",
+      "term": "九",
+      "reading": "きゅう",
+      "romanization": "kyū",
+      "meaning": "nueve",
+      "pos": "número",
+      "example": {
+        "text": "九百円です。",
+        "reading": "きゅうひゃくえんです。",
+        "translation": "Son novecientos yenes."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 34,
+      "notes": "También se lee く (九時 = くじ)."
+    },
+    {
+      "id": "ja-0035",
+      "term": "十",
+      "reading": "じゅう",
+      "romanization": "jū",
+      "meaning": "diez",
+      "pos": "número",
+      "example": {
+        "text": "十時に寝ます。",
+        "reading": "じゅうじにねます。",
+        "translation": "Me acuesto a las diez."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 35
+    },
+    {
+      "id": "ja-0036",
+      "term": "です",
+      "romanization": "desu",
+      "meaning": "ser, estar (forma cortés)",
+      "pos": "otro",
+      "example": {
+        "text": "学生です。",
+        "reading": "がくせいです。",
+        "translation": "Soy estudiante."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 36,
+      "notes": "Es la cópula cortés; va al final de la oración."
+    },
+    {
+      "id": "ja-0037",
+      "term": "ある",
+      "romanization": "aru",
+      "meaning": "haber, estar (cosas)",
+      "pos": "verbo",
+      "example": {
+        "text": "机の上に本があります。",
+        "reading": "つくえのうえにほんがあります。",
+        "translation": "Hay un libro sobre el escritorio."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 37
+    },
+    {
+      "id": "ja-0038",
+      "term": "いる",
+      "romanization": "iru",
+      "meaning": "haber, estar (personas y animales)",
+      "pos": "verbo",
+      "example": {
+        "text": "公園に犬がいます。",
+        "reading": "こうえんにいぬがいます。",
+        "translation": "Hay un perro en el parque."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 38
+    },
+    {
+      "id": "ja-0039",
+      "term": "行く",
+      "reading": "いく",
+      "romanization": "iku",
+      "meaning": "ir",
+      "pos": "verbo",
+      "example": {
+        "text": "明日、東京へ行きます。",
+        "reading": "あした、とうきょうへいきます。",
+        "translation": "Mañana voy a Tokio."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 39
+    },
+    {
+      "id": "ja-0040",
+      "term": "来る",
+      "reading": "くる",
+      "romanization": "kuru",
+      "meaning": "venir",
+      "pos": "verbo",
+      "example": {
+        "text": "友達が家に来ます。",
+        "reading": "ともだちがいえにきます。",
+        "translation": "Un amigo viene a mi casa."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 40
+    },
+    {
+      "id": "ja-0041",
+      "term": "食べる",
+      "reading": "たべる",
+      "romanization": "taberu",
+      "meaning": "comer",
+      "pos": "verbo",
+      "example": {
+        "text": "朝ご飯を食べます。",
+        "reading": "あさごはんをたべます。",
+        "translation": "Tomo el desayuno."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 41
+    },
+    {
+      "id": "ja-0042",
+      "term": "飲む",
+      "reading": "のむ",
+      "romanization": "nomu",
+      "meaning": "beber, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "水を飲みます。",
+        "reading": "みずをのみます。",
+        "translation": "Tomo agua."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 42
+    },
+    {
+      "id": "ja-0043",
+      "term": "話す",
+      "reading": "はなす",
+      "romanization": "hanasu",
+      "meaning": "hablar",
+      "pos": "verbo",
+      "example": {
+        "text": "日本語を少し話します。",
+        "reading": "にほんごをすこしはなします。",
+        "translation": "Hablo un poco de japonés."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 43
+    },
+    {
+      "id": "ja-0044",
+      "term": "見る",
+      "reading": "みる",
+      "romanization": "miru",
+      "meaning": "ver, mirar",
+      "pos": "verbo",
+      "example": {
+        "text": "テレビを見ます。",
+        "reading": "テレビをみます。",
+        "translation": "Veo televisión."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 44
+    },
+    {
+      "id": "ja-0045",
+      "term": "聞く",
+      "reading": "きく",
+      "romanization": "kiku",
+      "meaning": "escuchar; preguntar",
+      "pos": "verbo",
+      "example": {
+        "text": "音楽を聞きます。",
+        "reading": "おんがくをききます。",
+        "translation": "Escucho música."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 45
+    },
+    {
+      "id": "ja-0046",
+      "term": "する",
+      "romanization": "suru",
+      "meaning": "hacer",
+      "pos": "verbo",
+      "example": {
+        "text": "毎日勉強します。",
+        "reading": "まいにちべんきょうします。",
+        "translation": "Estudio todos los días."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 46
+    },
+    {
+      "id": "ja-0047",
+      "term": "分かる",
+      "reading": "わかる",
+      "romanization": "wakaru",
+      "meaning": "entender",
+      "pos": "verbo",
+      "example": {
+        "text": "日本語が分かりますか。",
+        "reading": "にほんごがわかりますか。",
+        "translation": "¿Entiendes japonés?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 47,
+      "notes": "Lo que se entiende va con が, no con を."
+    },
+    {
+      "id": "ja-0048",
+      "term": "寝る",
+      "reading": "ねる",
+      "romanization": "neru",
+      "meaning": "dormir, acostarse",
+      "pos": "verbo",
+      "example": {
+        "text": "十一時に寝ます。",
+        "reading": "じゅういちじにねます。",
+        "translation": "Me acuesto a las once."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 48
+    },
+    {
+      "id": "ja-0049",
+      "term": "起きる",
+      "reading": "おきる",
+      "romanization": "okiru",
+      "meaning": "levantarse, despertarse",
+      "pos": "verbo",
+      "example": {
+        "text": "毎朝六時に起きます。",
+        "reading": "まいあさろくじにおきます。",
+        "translation": "Me levanto a las seis cada mañana."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 49
+    },
+    {
+      "id": "ja-0050",
+      "term": "働く",
+      "reading": "はたらく",
+      "romanization": "hataraku",
+      "meaning": "trabajar",
+      "pos": "verbo",
+      "example": {
+        "text": "銀行で働いています。",
+        "reading": "ぎんこうではたらいています。",
+        "translation": "Trabajo en un banco."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 50
+    },
+    {
+      "id": "ja-0051",
+      "term": "勉強",
+      "reading": "べんきょう",
+      "romanization": "benkyō",
+      "meaning": "estudio (勉強する = estudiar)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "図書館で勉強します。",
+        "reading": "としょかんでべんきょうします。",
+        "translation": "Estudio en la biblioteca."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 51
+    },
+    {
+      "id": "ja-0052",
+      "term": "読む",
+      "reading": "よむ",
+      "romanization": "yomu",
+      "meaning": "leer",
+      "pos": "verbo",
+      "example": {
+        "text": "本を読みます。",
+        "reading": "ほんをよみます。",
+        "translation": "Leo un libro."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 52
+    },
+    {
+      "id": "ja-0053",
+      "term": "書く",
+      "reading": "かく",
+      "romanization": "kaku",
+      "meaning": "escribir",
+      "pos": "verbo",
+      "example": {
+        "text": "名前を書いてください。",
+        "reading": "なまえをかいてください。",
+        "translation": "Escriba su nombre, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 53
+    },
+    {
+      "id": "ja-0054",
+      "term": "買う",
+      "reading": "かう",
+      "romanization": "kau",
+      "meaning": "comprar",
+      "pos": "verbo",
+      "example": {
+        "text": "パンを買います。",
+        "reading": "パンをかいます。",
+        "translation": "Compro pan."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 54
+    },
+    {
+      "id": "ja-0055",
+      "term": "住む",
+      "reading": "すむ",
+      "romanization": "sumu",
+      "meaning": "vivir (residir)",
+      "pos": "verbo",
+      "example": {
+        "text": "リマに住んでいます。",
+        "reading": "リマにすんでいます。",
+        "translation": "Vivo en Lima."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 55
+    },
+    {
+      "id": "ja-0056",
+      "term": "待つ",
+      "reading": "まつ",
+      "romanization": "matsu",
+      "meaning": "esperar",
+      "pos": "verbo",
+      "example": {
+        "text": "ちょっと待ってください。",
+        "reading": "ちょっとまってください。",
+        "translation": "Espere un momento, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 56
+    },
+    {
+      "id": "ja-0057",
+      "term": "会う",
+      "reading": "あう",
+      "romanization": "au",
+      "meaning": "encontrarse (con alguien)",
+      "pos": "verbo",
+      "example": {
+        "text": "駅で友達に会います。",
+        "reading": "えきでともだちにあいます。",
+        "translation": "Me encuentro con un amigo en la estación."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 57
+    },
+    {
+      "id": "ja-0058",
+      "term": "好き",
+      "reading": "すき",
+      "romanization": "suki",
+      "meaning": "que gusta",
+      "pos": "adjetivo",
+      "example": {
+        "text": "私はすしが好きです。",
+        "reading": "わたしはすしがすきです。",
+        "translation": "Me gusta el sushi."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 58,
+      "notes": "Es un adjetivo-na: lo que gusta va con が."
+    },
+    {
+      "id": "ja-0059",
+      "term": "欲しい",
+      "reading": "ほしい",
+      "romanization": "hoshii",
+      "meaning": "querer (tener algo)",
+      "pos": "adjetivo",
+      "example": {
+        "text": "新しい車が欲しいです。",
+        "reading": "あたらしいくるまがほしいです。",
+        "translation": "Quiero un carro nuevo."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 59
+    },
+    {
+      "id": "ja-0060",
+      "term": "水",
+      "reading": "みず",
+      "romanization": "mizu",
+      "meaning": "agua",
+      "pos": "sustantivo",
+      "example": {
+        "text": "水をください。",
+        "reading": "みずをください。",
+        "translation": "Agua, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 60
+    },
+    {
+      "id": "ja-0061",
+      "term": "お茶",
+      "reading": "おちゃ",
+      "romanization": "ocha",
+      "meaning": "té (verde)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "お茶を飲みませんか。",
+        "reading": "おちゃをのみませんか。",
+        "translation": "¿Tomamos un té?"
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 61
+    },
+    {
+      "id": "ja-0062",
+      "term": "コーヒー",
+      "romanization": "kōhī",
+      "meaning": "café",
+      "pos": "sustantivo",
+      "example": {
+        "text": "コーヒーが好きです。",
+        "reading": "コーヒーがすきです。",
+        "translation": "Me gusta el café."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 62
+    },
+    {
+      "id": "ja-0063",
+      "term": "ご飯",
+      "reading": "ごはん",
+      "romanization": "gohan",
+      "meaning": "arroz cocido; comida",
+      "pos": "sustantivo",
+      "example": {
+        "text": "ご飯を食べましょう。",
+        "reading": "ごはんをたべましょう。",
+        "translation": "Vamos a comer."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 63
+    },
+    {
+      "id": "ja-0064",
+      "term": "パン",
+      "romanization": "pan",
+      "meaning": "pan",
+      "pos": "sustantivo",
+      "example": {
+        "text": "朝はパンを食べます。",
+        "reading": "あさはパンをたべます。",
+        "translation": "En la mañana como pan."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 64
+    },
+    {
+      "id": "ja-0065",
+      "term": "肉",
+      "reading": "にく",
+      "romanization": "niku",
+      "meaning": "carne",
+      "pos": "sustantivo",
+      "example": {
+        "text": "肉はあまり食べません。",
+        "reading": "にくはあまりたべません。",
+        "translation": "No como mucha carne."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 65
+    },
+    {
+      "id": "ja-0066",
+      "term": "魚",
+      "reading": "さかな",
+      "romanization": "sakana",
+      "meaning": "pescado, pez",
+      "pos": "sustantivo",
+      "example": {
+        "text": "魚が好きです。",
+        "reading": "さかながすきです。",
+        "translation": "Me gusta el pescado."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 66
+    },
+    {
+      "id": "ja-0067",
+      "term": "卵",
+      "reading": "たまご",
+      "romanization": "tamago",
+      "meaning": "huevo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "卵を二つ買いました。",
+        "reading": "たまごをふたつかいました。",
+        "translation": "Compré dos huevos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 67
+    },
+    {
+      "id": "ja-0068",
+      "term": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "romanization": "gyūnyū",
+      "meaning": "leche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "毎朝牛乳を飲みます。",
+        "reading": "まいあさぎゅうにゅうをのみます。",
+        "translation": "Tomo leche cada mañana."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 68
+    },
+    {
+      "id": "ja-0069",
+      "term": "野菜",
+      "reading": "やさい",
+      "romanization": "yasai",
+      "meaning": "verdura",
+      "pos": "sustantivo",
+      "example": {
+        "text": "野菜を食べてください。",
+        "reading": "やさいをたべてください。",
+        "translation": "Come verduras, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 69
+    },
+    {
+      "id": "ja-0070",
+      "term": "果物",
+      "reading": "くだもの",
+      "romanization": "kudamono",
+      "meaning": "fruta",
+      "pos": "sustantivo",
+      "example": {
+        "text": "果物が大好きです。",
+        "reading": "くだものがだいすきです。",
+        "translation": "Me encanta la fruta."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 70
+    },
+    {
+      "id": "ja-0071",
+      "term": "おいしい",
+      "romanization": "oishii",
+      "meaning": "rico, delicioso",
+      "pos": "adjetivo",
+      "example": {
+        "text": "このラーメンはおいしいです。",
+        "translation": "Este ramen está rico."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 71
+    },
+    {
+      "id": "ja-0072",
+      "term": "今日",
+      "reading": "きょう",
+      "romanization": "kyō",
+      "meaning": "hoy",
+      "pos": "sustantivo",
+      "example": {
+        "text": "今日は暑いです。",
+        "reading": "きょうはあついです。",
+        "translation": "Hoy hace calor."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 72
+    },
+    {
+      "id": "ja-0073",
+      "term": "明日",
+      "reading": "あした",
+      "romanization": "ashita",
+      "meaning": "mañana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "明日は休みです。",
+        "reading": "あしたはやすみです。",
+        "translation": "Mañana es mi día libre."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 73
+    },
+    {
+      "id": "ja-0074",
+      "term": "昨日",
+      "reading": "きのう",
+      "romanization": "kinō",
+      "meaning": "ayer",
+      "pos": "sustantivo",
+      "example": {
+        "text": "昨日、映画を見ました。",
+        "reading": "きのう、えいがをみました。",
+        "translation": "Ayer vi una película."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 74
+    },
+    {
+      "id": "ja-0075",
+      "term": "今",
+      "reading": "いま",
+      "romanization": "ima",
+      "meaning": "ahora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "今、何時ですか。",
+        "reading": "いま、なんじですか。",
+        "translation": "¿Qué hora es ahora?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 75
+    },
+    {
+      "id": "ja-0076",
+      "term": "時間",
+      "reading": "じかん",
+      "romanization": "jikan",
+      "meaning": "tiempo; horas",
+      "pos": "sustantivo",
+      "example": {
+        "text": "時間がありません。",
+        "reading": "じかんがありません。",
+        "translation": "No tengo tiempo."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 76
+    },
+    {
+      "id": "ja-0077",
+      "term": "毎日",
+      "reading": "まいにち",
+      "romanization": "mainichi",
+      "meaning": "todos los días",
+      "pos": "adverbio",
+      "example": {
+        "text": "毎日日本語を勉強します。",
+        "reading": "まいにちにほんごをべんきょうします。",
+        "translation": "Estudio japonés todos los días."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 77
+    },
+    {
+      "id": "ja-0078",
+      "term": "週",
+      "reading": "しゅう",
+      "romanization": "shū",
+      "meaning": "semana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "来週、京都へ行きます。",
+        "reading": "らいしゅう、きょうとへいきます。",
+        "translation": "La próxima semana voy a Kioto."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 78
+    },
+    {
+      "id": "ja-0079",
+      "term": "年",
+      "reading": "とし",
+      "romanization": "toshi",
+      "meaning": "año",
+      "pos": "sustantivo",
+      "example": {
+        "text": "今年は忙しいです。",
+        "reading": "ことしはいそがしいです。",
+        "translation": "Este año estoy ocupado."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 79,
+      "notes": "Detrás de un número se lee ねん: 2026年."
+    },
+    {
+      "id": "ja-0080",
+      "term": "朝",
+      "reading": "あさ",
+      "romanization": "asa",
+      "meaning": "mañana (parte del día)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "朝、コーヒーを飲みます。",
+        "reading": "あさ、コーヒーをのみます。",
+        "translation": "En la mañana tomo café."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 80
+    },
+    {
+      "id": "ja-0081",
+      "term": "夜",
+      "reading": "よる",
+      "romanization": "yoru",
+      "meaning": "noche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "夜は家にいます。",
+        "reading": "よるはいえにいます。",
+        "translation": "En la noche estoy en casa."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 81
+    },
+    {
+      "id": "ja-0082",
+      "term": "母",
+      "reading": "はは",
+      "romanization": "haha",
+      "meaning": "(mi) madre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "母は先生です。",
+        "reading": "はははせんせいです。",
+        "translation": "Mi madre es profesora."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 82,
+      "notes": "La madre de otra persona: お母さん (okāsan)."
+    },
+    {
+      "id": "ja-0083",
+      "term": "父",
+      "reading": "ちち",
+      "romanization": "chichi",
+      "meaning": "(mi) padre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "父は会社員です。",
+        "reading": "ちちはかいしゃいんです。",
+        "translation": "Mi padre es oficinista."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 83,
+      "notes": "El padre de otra persona: お父さん (otōsan)."
+    },
+    {
+      "id": "ja-0084",
+      "term": "兄",
+      "reading": "あに",
+      "romanization": "ani",
+      "meaning": "(mi) hermano mayor",
+      "pos": "sustantivo",
+      "example": {
+        "text": "兄は東京に住んでいます。",
+        "reading": "あにはとうきょうにすんでいます。",
+        "translation": "Mi hermano mayor vive en Tokio."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 84
+    },
+    {
+      "id": "ja-0085",
+      "term": "姉",
+      "reading": "あね",
+      "romanization": "ane",
+      "meaning": "(mi) hermana mayor",
+      "pos": "sustantivo",
+      "example": {
+        "text": "姉は二人います。",
+        "reading": "あねはふたりいます。",
+        "translation": "Tengo dos hermanas mayores."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 85
+    },
+    {
+      "id": "ja-0086",
+      "term": "子供",
+      "reading": "こども",
+      "romanization": "kodomo",
+      "meaning": "niño; hijo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "子供が三人います。",
+        "reading": "こどもがさんにんいます。",
+        "translation": "Tengo tres hijos."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 86
+    },
+    {
+      "id": "ja-0087",
+      "term": "友達",
+      "reading": "ともだち",
+      "romanization": "tomodachi",
+      "meaning": "amigo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "友達と遊びます。",
+        "reading": "ともだちとあそびます。",
+        "translation": "Salgo a divertirme con mis amigos."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 87
+    },
+    {
+      "id": "ja-0088",
+      "term": "人",
+      "reading": "ひと",
+      "romanization": "hito",
+      "meaning": "persona",
+      "pos": "sustantivo",
+      "example": {
+        "text": "いい人ですね。",
+        "reading": "いいひとですね。",
+        "translation": "Es buena persona, ¿no?"
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 88
+    },
+    {
+      "id": "ja-0089",
+      "term": "先生",
+      "reading": "せんせい",
+      "romanization": "sensei",
+      "meaning": "profesor, profesora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "田中先生は優しいです。",
+        "reading": "たなかせんせいはやさしいです。",
+        "translation": "La profesora Tanaka es amable."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 89
+    },
+    {
+      "id": "ja-0090",
+      "term": "家",
+      "reading": "いえ",
+      "romanization": "ie",
+      "meaning": "casa",
+      "pos": "sustantivo",
+      "example": {
+        "text": "家に帰ります。",
+        "reading": "いえにかえります。",
+        "translation": "Vuelvo a casa."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 90
+    },
+    {
+      "id": "ja-0091",
+      "term": "学校",
+      "reading": "がっこう",
+      "romanization": "gakkō",
+      "meaning": "escuela",
+      "pos": "sustantivo",
+      "example": {
+        "text": "学校は八時からです。",
+        "reading": "がっこうははちじからです。",
+        "translation": "La escuela empieza a las ocho."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 91
+    },
+    {
+      "id": "ja-0092",
+      "term": "駅",
+      "reading": "えき",
+      "romanization": "eki",
+      "meaning": "estación (de tren)",
+      "pos": "sustantivo",
+      "example": {
+        "text": "駅まで歩きます。",
+        "reading": "えきまであるきます。",
+        "translation": "Camino hasta la estación."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 92
+    },
+    {
+      "id": "ja-0093",
+      "term": "店",
+      "reading": "みせ",
+      "romanization": "mise",
+      "meaning": "tienda",
+      "pos": "sustantivo",
+      "example": {
+        "text": "あの店は安いです。",
+        "reading": "あのみせはやすいです。",
+        "translation": "Esa tienda es barata."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 93
+    },
+    {
+      "id": "ja-0094",
+      "term": "会社",
+      "reading": "かいしゃ",
+      "romanization": "kaisha",
+      "meaning": "empresa, oficina",
+      "pos": "sustantivo",
+      "example": {
+        "text": "会社に行きます。",
+        "reading": "かいしゃにいきます。",
+        "translation": "Voy a la oficina."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 94
+    },
+    {
+      "id": "ja-0095",
+      "term": "日本",
+      "reading": "にほん",
+      "romanization": "Nihon",
+      "meaning": "Japón",
+      "pos": "sustantivo",
+      "example": {
+        "text": "日本に行きたいです。",
+        "reading": "にほんにいきたいです。",
+        "translation": "Quiero ir a Japón."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 95
+    },
+    {
+      "id": "ja-0096",
+      "term": "トイレ",
+      "romanization": "toire",
+      "meaning": "baño",
+      "pos": "sustantivo",
+      "example": {
+        "text": "トイレはあちらです。",
+        "translation": "El baño está por allá."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 96
+    },
+    {
+      "id": "ja-0097",
+      "term": "大きい",
+      "reading": "おおきい",
+      "romanization": "ōkii",
+      "meaning": "grande",
+      "pos": "adjetivo",
+      "example": {
+        "text": "大きい家ですね。",
+        "reading": "おおきいいえですね。",
+        "translation": "¡Qué casa tan grande!"
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 97
+    },
+    {
+      "id": "ja-0098",
+      "term": "小さい",
+      "reading": "ちいさい",
+      "romanization": "chiisai",
+      "meaning": "pequeño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "小さい犬がいます。",
+        "reading": "ちいさいいぬがいます。",
+        "translation": "Hay un perro pequeño."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 98
+    },
+    {
+      "id": "ja-0099",
+      "term": "新しい",
+      "reading": "あたらしい",
+      "romanization": "atarashii",
+      "meaning": "nuevo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "新しい靴を買いました。",
+        "reading": "あたらしいくつをかいました。",
+        "translation": "Compré zapatos nuevos."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 99
+    },
+    {
+      "id": "ja-0100",
+      "term": "古い",
+      "reading": "ふるい",
+      "romanization": "furui",
+      "meaning": "viejo (cosas)",
+      "pos": "adjetivo",
+      "example": {
+        "text": "この建物は古いです。",
+        "reading": "このたてものはふるいです。",
+        "translation": "Este edificio es viejo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 100
+    },
+    {
+      "id": "ja-0101",
+      "term": "高い",
+      "reading": "たかい",
+      "romanization": "takai",
+      "meaning": "caro; alto",
+      "pos": "adjetivo",
+      "example": {
+        "text": "東京のホテルは高いです。",
+        "reading": "とうきょうのホテルはたかいです。",
+        "translation": "Los hoteles de Tokio son caros."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 101
+    },
+    {
+      "id": "ja-0102",
+      "term": "安い",
+      "reading": "やすい",
+      "romanization": "yasui",
+      "meaning": "barato",
+      "pos": "adjetivo",
+      "example": {
+        "text": "このシャツは安いです。",
+        "reading": "このシャツはやすいです。",
+        "translation": "Esta camisa es barata."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 102
+    },
+    {
+      "id": "ja-0103",
+      "term": "暑い",
+      "reading": "あつい",
+      "romanization": "atsui",
+      "meaning": "caluroso (clima)",
+      "pos": "adjetivo",
+      "example": {
+        "text": "夏は暑いです。",
+        "reading": "なつはあついです。",
+        "translation": "En verano hace calor."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 103,
+      "notes": "Para cosas calientes (comida, agua) se escribe 熱い."
+    },
+    {
+      "id": "ja-0104",
+      "term": "寒い",
+      "reading": "さむい",
+      "romanization": "samui",
+      "meaning": "frío (clima)",
+      "pos": "adjetivo",
+      "example": {
+        "text": "今日は寒いですね。",
+        "reading": "きょうはさむいですね。",
+        "translation": "Hoy hace frío, ¿no?"
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 104
+    },
+    {
+      "id": "ja-0105",
+      "term": "いい",
+      "romanization": "ii",
+      "meaning": "bueno",
+      "pos": "adjetivo",
+      "example": {
+        "text": "いい天気ですね。",
+        "reading": "いいてんきですね。",
+        "translation": "Qué buen tiempo, ¿no?"
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 105,
+      "notes": "Pasado: よかった (no いかった)."
+    },
+    {
+      "id": "ja-0106",
+      "term": "悪い",
+      "reading": "わるい",
+      "romanization": "warui",
+      "meaning": "malo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "天気が悪いです。",
+        "reading": "てんきがわるいです。",
+        "translation": "Hace mal tiempo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 106
+    },
+    {
+      "id": "ja-0107",
+      "term": "本",
+      "reading": "ほん",
+      "romanization": "hon",
+      "meaning": "libro",
+      "pos": "sustantivo",
+      "example": {
+        "text": "この本はおもしろいです。",
+        "reading": "このほんはおもしろいです。",
+        "translation": "Este libro es interesante."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 107
+    },
+    {
+      "id": "ja-0108",
+      "term": "お金",
+      "reading": "おかね",
+      "romanization": "okane",
+      "meaning": "dinero",
+      "pos": "sustantivo",
+      "example": {
+        "text": "お金がありません。",
+        "reading": "おかねがありません。",
+        "translation": "No tengo dinero."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 108
+    },
+    {
+      "id": "ja-0109",
+      "term": "名前",
+      "reading": "なまえ",
+      "romanization": "namae",
+      "meaning": "nombre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "名前を教えてください。",
+        "reading": "なまえをおしえてください。",
+        "translation": "Dime tu nombre, por favor."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 109
+    },
+    {
+      "id": "ja-0110",
+      "term": "電車",
+      "reading": "でんしゃ",
+      "romanization": "densha",
+      "meaning": "tren",
+      "pos": "sustantivo",
+      "example": {
+        "text": "電車で会社に行きます。",
+        "reading": "でんしゃでかいしゃにいきます。",
+        "translation": "Voy a la oficina en tren."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 110
+    }
+  ]
+}

@@ -1,0 +1,1678 @@
+{
+  "lang": "en",
+  "name": "Inglés",
+  "ttsLang": "en-US",
+  "version": 1,
+  "cards": [
+    {
+      "id": "en-0001",
+      "term": "hello",
+      "meaning": "hola",
+      "pos": "expresión",
+      "example": {
+        "text": "Hello, nice to meet you.",
+        "translation": "Hola, mucho gusto."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 1
+    },
+    {
+      "id": "en-0002",
+      "term": "goodbye",
+      "meaning": "adiós",
+      "pos": "expresión",
+      "example": {
+        "text": "Goodbye, see you tomorrow.",
+        "translation": "Adiós, nos vemos mañana."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 2
+    },
+    {
+      "id": "en-0003",
+      "term": "thank you",
+      "meaning": "gracias",
+      "pos": "expresión",
+      "example": {
+        "text": "Thank you for your help.",
+        "translation": "Gracias por tu ayuda."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 3
+    },
+    {
+      "id": "en-0004",
+      "term": "please",
+      "meaning": "por favor",
+      "pos": "expresión",
+      "example": {
+        "text": "A coffee, please.",
+        "translation": "Un café, por favor."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 4
+    },
+    {
+      "id": "en-0005",
+      "term": "yes",
+      "meaning": "sí",
+      "pos": "expresión",
+      "example": {
+        "text": "Yes, of course.",
+        "translation": "Sí, claro."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 5
+    },
+    {
+      "id": "en-0006",
+      "term": "no",
+      "meaning": "no",
+      "pos": "expresión",
+      "example": {
+        "text": "No, thanks.",
+        "translation": "No, gracias."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 6
+    },
+    {
+      "id": "en-0007",
+      "term": "sorry",
+      "meaning": "perdón, lo siento",
+      "pos": "expresión",
+      "example": {
+        "text": "Sorry, I'm late.",
+        "translation": "Perdón, llegué tarde."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 7
+    },
+    {
+      "id": "en-0008",
+      "term": "excuse me",
+      "meaning": "disculpe",
+      "pos": "expresión",
+      "example": {
+        "text": "Excuse me, where is the station?",
+        "translation": "Disculpe, ¿dónde está la estación?"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 8
+    },
+    {
+      "id": "en-0009",
+      "term": "good morning",
+      "meaning": "buenos días",
+      "pos": "expresión",
+      "example": {
+        "text": "Good morning, everyone!",
+        "translation": "¡Buenos días a todos!"
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 9
+    },
+    {
+      "id": "en-0010",
+      "term": "good night",
+      "meaning": "buenas noches (al despedirse)",
+      "pos": "expresión",
+      "example": {
+        "text": "Good night, sleep well.",
+        "translation": "Buenas noches, que duermas bien."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 10,
+      "notes": "Para saludar de noche se dice «good evening»."
+    },
+    {
+      "id": "en-0011",
+      "term": "you're welcome",
+      "meaning": "de nada",
+      "pos": "expresión",
+      "example": {
+        "text": "Thanks! — You're welcome.",
+        "translation": "¡Gracias! —De nada."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 11
+    },
+    {
+      "id": "en-0012",
+      "term": "how are you?",
+      "meaning": "¿cómo estás?",
+      "pos": "expresión",
+      "example": {
+        "text": "Hi, how are you? — I'm fine, thanks.",
+        "translation": "Hola, ¿cómo estás? —Bien, gracias."
+      },
+      "tags": [
+        "A1",
+        "saludos"
+      ],
+      "rank": 12
+    },
+    {
+      "id": "en-0013",
+      "term": "I",
+      "meaning": "yo",
+      "pos": "pronombre",
+      "example": {
+        "text": "I am from Peru.",
+        "translation": "Soy de Perú."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 13,
+      "notes": "Siempre se escribe con mayúscula."
+    },
+    {
+      "id": "en-0014",
+      "term": "you",
+      "meaning": "tú, usted, ustedes",
+      "pos": "pronombre",
+      "example": {
+        "text": "Do you speak Spanish?",
+        "translation": "¿Hablas español?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 14
+    },
+    {
+      "id": "en-0015",
+      "term": "he",
+      "meaning": "él",
+      "pos": "pronombre",
+      "example": {
+        "text": "He is my brother.",
+        "translation": "Él es mi hermano."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 15
+    },
+    {
+      "id": "en-0016",
+      "term": "she",
+      "meaning": "ella",
+      "pos": "pronombre",
+      "example": {
+        "text": "She is a doctor.",
+        "translation": "Ella es médica."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 16
+    },
+    {
+      "id": "en-0017",
+      "term": "we",
+      "meaning": "nosotros",
+      "pos": "pronombre",
+      "example": {
+        "text": "We are friends.",
+        "translation": "Somos amigos."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 17
+    },
+    {
+      "id": "en-0018",
+      "term": "they",
+      "meaning": "ellos, ellas",
+      "pos": "pronombre",
+      "example": {
+        "text": "They live in London.",
+        "translation": "Ellos viven en Londres."
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 18
+    },
+    {
+      "id": "en-0019",
+      "term": "this",
+      "meaning": "esto, este",
+      "pos": "pronombre",
+      "example": {
+        "text": "What is this?",
+        "translation": "¿Qué es esto?"
+      },
+      "tags": [
+        "A1",
+        "pronombres"
+      ],
+      "rank": 19
+    },
+    {
+      "id": "en-0020",
+      "term": "what",
+      "meaning": "qué",
+      "pos": "pronombre",
+      "example": {
+        "text": "What is your name?",
+        "translation": "¿Cómo te llamas?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 20
+    },
+    {
+      "id": "en-0021",
+      "term": "who",
+      "meaning": "quién",
+      "pos": "pronombre",
+      "example": {
+        "text": "Who is that man?",
+        "translation": "¿Quién es ese hombre?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 21
+    },
+    {
+      "id": "en-0022",
+      "term": "where",
+      "meaning": "dónde",
+      "pos": "adverbio",
+      "example": {
+        "text": "Where do you live?",
+        "translation": "¿Dónde vives?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 22
+    },
+    {
+      "id": "en-0023",
+      "term": "when",
+      "meaning": "cuándo",
+      "pos": "adverbio",
+      "example": {
+        "text": "When is your birthday?",
+        "translation": "¿Cuándo es tu cumpleaños?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 23
+    },
+    {
+      "id": "en-0024",
+      "term": "how",
+      "meaning": "cómo",
+      "pos": "adverbio",
+      "example": {
+        "text": "How do you say \"agua\" in English?",
+        "translation": "¿Cómo se dice «agua» en inglés?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 24
+    },
+    {
+      "id": "en-0025",
+      "term": "why",
+      "meaning": "por qué",
+      "pos": "adverbio",
+      "example": {
+        "text": "Why are you sad?",
+        "translation": "¿Por qué estás triste?"
+      },
+      "tags": [
+        "A1",
+        "preguntas"
+      ],
+      "rank": 25
+    },
+    {
+      "id": "en-0026",
+      "term": "one",
+      "meaning": "uno",
+      "pos": "número",
+      "example": {
+        "text": "I have one sister.",
+        "translation": "Tengo una hermana."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 26
+    },
+    {
+      "id": "en-0027",
+      "term": "two",
+      "meaning": "dos",
+      "pos": "número",
+      "example": {
+        "text": "Two coffees, please.",
+        "translation": "Dos cafés, por favor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 27
+    },
+    {
+      "id": "en-0028",
+      "term": "three",
+      "meaning": "tres",
+      "pos": "número",
+      "example": {
+        "text": "I have three books.",
+        "translation": "Tengo tres libros."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 28
+    },
+    {
+      "id": "en-0029",
+      "term": "four",
+      "meaning": "cuatro",
+      "pos": "número",
+      "example": {
+        "text": "It's four o'clock.",
+        "translation": "Son las cuatro."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 29
+    },
+    {
+      "id": "en-0030",
+      "term": "five",
+      "meaning": "cinco",
+      "pos": "número",
+      "example": {
+        "text": "Wait five minutes, please.",
+        "translation": "Espera cinco minutos, por favor."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 30
+    },
+    {
+      "id": "en-0031",
+      "term": "six",
+      "meaning": "seis",
+      "pos": "número",
+      "example": {
+        "text": "My son is six.",
+        "translation": "Mi hijo tiene seis años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 31
+    },
+    {
+      "id": "en-0032",
+      "term": "seven",
+      "meaning": "siete",
+      "pos": "número",
+      "example": {
+        "text": "A week has seven days.",
+        "translation": "Una semana tiene siete días."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 32
+    },
+    {
+      "id": "en-0033",
+      "term": "eight",
+      "meaning": "ocho",
+      "pos": "número",
+      "example": {
+        "text": "Class starts at eight.",
+        "translation": "La clase empieza a las ocho."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 33
+    },
+    {
+      "id": "en-0034",
+      "term": "nine",
+      "meaning": "nueve",
+      "pos": "número",
+      "example": {
+        "text": "She is nine years old.",
+        "translation": "Ella tiene nueve años."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 34
+    },
+    {
+      "id": "en-0035",
+      "term": "ten",
+      "meaning": "diez",
+      "pos": "número",
+      "example": {
+        "text": "It costs ten dollars.",
+        "translation": "Cuesta diez dólares."
+      },
+      "tags": [
+        "A1",
+        "números"
+      ],
+      "rank": 35
+    },
+    {
+      "id": "en-0036",
+      "term": "be",
+      "meaning": "ser, estar",
+      "pos": "verbo",
+      "example": {
+        "text": "I am tired.",
+        "translation": "Estoy cansado."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 36,
+      "notes": "Presente: I am, you are, he/she/it is."
+    },
+    {
+      "id": "en-0037",
+      "term": "have",
+      "meaning": "tener",
+      "pos": "verbo",
+      "example": {
+        "text": "Do you have time?",
+        "translation": "¿Tienes tiempo?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 37
+    },
+    {
+      "id": "en-0038",
+      "term": "go",
+      "meaning": "ir",
+      "pos": "verbo",
+      "example": {
+        "text": "I go to work by bus.",
+        "translation": "Voy al trabajo en bus."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 38
+    },
+    {
+      "id": "en-0039",
+      "term": "come",
+      "meaning": "venir",
+      "pos": "verbo",
+      "example": {
+        "text": "Come here, please.",
+        "translation": "Ven aquí, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 39
+    },
+    {
+      "id": "en-0040",
+      "term": "eat",
+      "meaning": "comer",
+      "pos": "verbo",
+      "example": {
+        "text": "We eat rice every day.",
+        "translation": "Comemos arroz todos los días."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 40
+    },
+    {
+      "id": "en-0041",
+      "term": "drink",
+      "meaning": "beber, tomar",
+      "pos": "verbo",
+      "example": {
+        "text": "I drink a lot of water.",
+        "translation": "Tomo mucha agua."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 41
+    },
+    {
+      "id": "en-0042",
+      "term": "speak",
+      "meaning": "hablar",
+      "pos": "verbo",
+      "example": {
+        "text": "I speak a little English.",
+        "translation": "Hablo un poco de inglés."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 42
+    },
+    {
+      "id": "en-0043",
+      "term": "see",
+      "meaning": "ver",
+      "pos": "verbo",
+      "example": {
+        "text": "I can't see anything.",
+        "translation": "No veo nada."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 43
+    },
+    {
+      "id": "en-0044",
+      "term": "want",
+      "meaning": "querer",
+      "pos": "verbo",
+      "example": {
+        "text": "I want a sandwich.",
+        "translation": "Quiero un sándwich."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 44
+    },
+    {
+      "id": "en-0045",
+      "term": "do",
+      "meaning": "hacer",
+      "pos": "verbo",
+      "example": {
+        "text": "What do you do?",
+        "translation": "¿A qué te dedicas?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 45
+    },
+    {
+      "id": "en-0046",
+      "term": "make",
+      "meaning": "hacer, preparar",
+      "pos": "verbo",
+      "example": {
+        "text": "I make breakfast every morning.",
+        "translation": "Preparo el desayuno cada mañana."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 46,
+      "notes": "«Do» es hacer una actividad; «make», crear o preparar algo."
+    },
+    {
+      "id": "en-0047",
+      "term": "know",
+      "meaning": "saber, conocer",
+      "pos": "verbo",
+      "example": {
+        "text": "I don't know.",
+        "translation": "No sé."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 47
+    },
+    {
+      "id": "en-0048",
+      "term": "sleep",
+      "meaning": "dormir",
+      "pos": "verbo",
+      "example": {
+        "text": "I sleep eight hours.",
+        "translation": "Duermo ocho horas."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 48
+    },
+    {
+      "id": "en-0049",
+      "term": "work",
+      "meaning": "trabajar",
+      "pos": "verbo",
+      "example": {
+        "text": "She works in a hospital.",
+        "translation": "Ella trabaja en un hospital."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 49
+    },
+    {
+      "id": "en-0050",
+      "term": "study",
+      "meaning": "estudiar",
+      "pos": "verbo",
+      "example": {
+        "text": "I study English at night.",
+        "translation": "Estudio inglés por la noche."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 50
+    },
+    {
+      "id": "en-0051",
+      "term": "read",
+      "meaning": "leer",
+      "pos": "verbo",
+      "example": {
+        "text": "I like to read books.",
+        "translation": "Me gusta leer libros."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 51
+    },
+    {
+      "id": "en-0052",
+      "term": "write",
+      "meaning": "escribir",
+      "pos": "verbo",
+      "example": {
+        "text": "Write your name here.",
+        "translation": "Escribe tu nombre aquí."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 52
+    },
+    {
+      "id": "en-0053",
+      "term": "buy",
+      "meaning": "comprar",
+      "pos": "verbo",
+      "example": {
+        "text": "I need to buy bread.",
+        "translation": "Necesito comprar pan."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 53
+    },
+    {
+      "id": "en-0054",
+      "term": "live",
+      "meaning": "vivir",
+      "pos": "verbo",
+      "example": {
+        "text": "I live in Lima.",
+        "translation": "Vivo en Lima."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 54
+    },
+    {
+      "id": "en-0055",
+      "term": "like",
+      "meaning": "gustar",
+      "pos": "verbo",
+      "example": {
+        "text": "I like coffee.",
+        "translation": "Me gusta el café."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 55,
+      "notes": "La persona es el sujeto: I like… = me gusta…"
+    },
+    {
+      "id": "en-0056",
+      "term": "understand",
+      "meaning": "entender",
+      "pos": "verbo",
+      "example": {
+        "text": "I don't understand.",
+        "translation": "No entiendo."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 56
+    },
+    {
+      "id": "en-0057",
+      "term": "can",
+      "meaning": "poder; saber (hacer algo)",
+      "pos": "verbo",
+      "example": {
+        "text": "Can you help me?",
+        "translation": "¿Puedes ayudarme?"
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 57
+    },
+    {
+      "id": "en-0058",
+      "term": "need",
+      "meaning": "necesitar",
+      "pos": "verbo",
+      "example": {
+        "text": "I need help.",
+        "translation": "Necesito ayuda."
+      },
+      "tags": [
+        "A1",
+        "verbos"
+      ],
+      "rank": 58
+    },
+    {
+      "id": "en-0059",
+      "term": "get up",
+      "meaning": "levantarse",
+      "pos": "verbo",
+      "example": {
+        "text": "I get up early on Mondays.",
+        "translation": "Me levanto temprano los lunes."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 59
+    },
+    {
+      "id": "en-0060",
+      "term": "wake up",
+      "meaning": "despertarse",
+      "pos": "verbo",
+      "example": {
+        "text": "I wake up at six.",
+        "translation": "Me despierto a las seis."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 60
+    },
+    {
+      "id": "en-0061",
+      "term": "turn on",
+      "meaning": "encender, prender",
+      "pos": "verbo",
+      "example": {
+        "text": "Turn on the light, please.",
+        "translation": "Prende la luz, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 61
+    },
+    {
+      "id": "en-0062",
+      "term": "turn off",
+      "meaning": "apagar",
+      "pos": "verbo",
+      "example": {
+        "text": "Turn off the TV.",
+        "translation": "Apaga el televisor."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 62
+    },
+    {
+      "id": "en-0063",
+      "term": "look for",
+      "meaning": "buscar",
+      "pos": "verbo",
+      "example": {
+        "text": "I'm looking for my keys.",
+        "translation": "Estoy buscando mis llaves."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 63
+    },
+    {
+      "id": "en-0064",
+      "term": "come back",
+      "meaning": "volver, regresar",
+      "pos": "verbo",
+      "example": {
+        "text": "I'll come back tomorrow.",
+        "translation": "Volveré mañana."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 64
+    },
+    {
+      "id": "en-0065",
+      "term": "sit down",
+      "meaning": "sentarse",
+      "pos": "verbo",
+      "example": {
+        "text": "Please sit down.",
+        "translation": "Siéntate, por favor."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 65
+    },
+    {
+      "id": "en-0066",
+      "term": "put on",
+      "meaning": "ponerse (ropa)",
+      "pos": "verbo",
+      "example": {
+        "text": "Put on your jacket, it's cold.",
+        "translation": "Ponte la casaca, hace frío."
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 66
+    },
+    {
+      "id": "en-0067",
+      "term": "give up",
+      "meaning": "rendirse; dejar (un hábito)",
+      "pos": "verbo",
+      "example": {
+        "text": "Don't give up!",
+        "translation": "¡No te rindas!"
+      },
+      "tags": [
+        "A1",
+        "verbos",
+        "phrasal verb"
+      ],
+      "rank": 67
+    },
+    {
+      "id": "en-0068",
+      "term": "water",
+      "meaning": "agua",
+      "pos": "sustantivo",
+      "example": {
+        "text": "A glass of water, please.",
+        "translation": "Un vaso de agua, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 68
+    },
+    {
+      "id": "en-0069",
+      "term": "coffee",
+      "meaning": "café",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I drink coffee in the morning.",
+        "translation": "Tomo café por la mañana."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 69
+    },
+    {
+      "id": "en-0070",
+      "term": "tea",
+      "meaning": "té",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Would you like some tea?",
+        "translation": "¿Quieres un poco de té?"
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 70
+    },
+    {
+      "id": "en-0071",
+      "term": "bread",
+      "meaning": "pan",
+      "pos": "sustantivo",
+      "example": {
+        "text": "This bread is fresh.",
+        "translation": "Este pan está fresco."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 71
+    },
+    {
+      "id": "en-0072",
+      "term": "rice",
+      "meaning": "arroz",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Rice with chicken.",
+        "translation": "Arroz con pollo."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 72
+    },
+    {
+      "id": "en-0073",
+      "term": "meat",
+      "meaning": "carne",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I don't eat meat.",
+        "translation": "No como carne."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 73
+    },
+    {
+      "id": "en-0074",
+      "term": "fish",
+      "meaning": "pescado, pez",
+      "pos": "sustantivo",
+      "example": {
+        "text": "We have fish for dinner.",
+        "translation": "Cenamos pescado."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 74
+    },
+    {
+      "id": "en-0075",
+      "term": "egg",
+      "meaning": "huevo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I want two eggs.",
+        "translation": "Quiero dos huevos."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 75
+    },
+    {
+      "id": "en-0076",
+      "term": "milk",
+      "meaning": "leche",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Coffee with milk, please.",
+        "translation": "Café con leche, por favor."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 76
+    },
+    {
+      "id": "en-0077",
+      "term": "apple",
+      "meaning": "manzana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "An apple a day.",
+        "translation": "Una manzana al día."
+      },
+      "tags": [
+        "A1",
+        "comida"
+      ],
+      "rank": 77
+    },
+    {
+      "id": "en-0078",
+      "term": "today",
+      "meaning": "hoy",
+      "pos": "adverbio",
+      "example": {
+        "text": "Today is Monday.",
+        "translation": "Hoy es lunes."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 78
+    },
+    {
+      "id": "en-0079",
+      "term": "tomorrow",
+      "meaning": "mañana",
+      "pos": "adverbio",
+      "example": {
+        "text": "See you tomorrow!",
+        "translation": "¡Hasta mañana!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 79
+    },
+    {
+      "id": "en-0080",
+      "term": "yesterday",
+      "meaning": "ayer",
+      "pos": "adverbio",
+      "example": {
+        "text": "It rained yesterday.",
+        "translation": "Ayer llovió."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 80
+    },
+    {
+      "id": "en-0081",
+      "term": "now",
+      "meaning": "ahora",
+      "pos": "adverbio",
+      "example": {
+        "text": "I'm busy now.",
+        "translation": "Ahora estoy ocupado."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 81
+    },
+    {
+      "id": "en-0082",
+      "term": "day",
+      "meaning": "día",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Have a nice day!",
+        "translation": "¡Que tengas un buen día!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 82
+    },
+    {
+      "id": "en-0083",
+      "term": "week",
+      "meaning": "semana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "See you next week.",
+        "translation": "Nos vemos la próxima semana."
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 83
+    },
+    {
+      "id": "en-0084",
+      "term": "year",
+      "meaning": "año",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Happy New Year!",
+        "translation": "¡Feliz año nuevo!"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 84
+    },
+    {
+      "id": "en-0085",
+      "term": "time",
+      "meaning": "tiempo; hora",
+      "pos": "sustantivo",
+      "example": {
+        "text": "What time is it?",
+        "translation": "¿Qué hora es?"
+      },
+      "tags": [
+        "A1",
+        "tiempo"
+      ],
+      "rank": 85
+    },
+    {
+      "id": "en-0086",
+      "term": "mother",
+      "meaning": "madre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "My mother is a teacher.",
+        "translation": "Mi madre es profesora."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 86
+    },
+    {
+      "id": "en-0087",
+      "term": "father",
+      "meaning": "padre",
+      "pos": "sustantivo",
+      "example": {
+        "text": "My father works a lot.",
+        "translation": "Mi padre trabaja mucho."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 87
+    },
+    {
+      "id": "en-0088",
+      "term": "brother",
+      "meaning": "hermano",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I have an older brother.",
+        "translation": "Tengo un hermano mayor."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 88
+    },
+    {
+      "id": "en-0089",
+      "term": "sister",
+      "meaning": "hermana",
+      "pos": "sustantivo",
+      "example": {
+        "text": "My sister lives in Cusco.",
+        "translation": "Mi hermana vive en Cusco."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 89
+    },
+    {
+      "id": "en-0090",
+      "term": "friend",
+      "meaning": "amigo, amiga",
+      "pos": "sustantivo",
+      "example": {
+        "text": "She is my best friend.",
+        "translation": "Ella es mi mejor amiga."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 90
+    },
+    {
+      "id": "en-0091",
+      "term": "child",
+      "meaning": "niño, niña; hijo",
+      "pos": "sustantivo",
+      "example": {
+        "text": "The child is sleeping.",
+        "translation": "El niño está durmiendo."
+      },
+      "tags": [
+        "A1",
+        "familia"
+      ],
+      "rank": 91,
+      "notes": "Plural irregular: children."
+    },
+    {
+      "id": "en-0092",
+      "term": "house",
+      "meaning": "casa",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Their house is big.",
+        "translation": "Su casa es grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 92,
+      "notes": "«Home» es el hogar: I'm at home = estoy en casa."
+    },
+    {
+      "id": "en-0093",
+      "term": "school",
+      "meaning": "escuela, colegio",
+      "pos": "sustantivo",
+      "example": {
+        "text": "The children go to school.",
+        "translation": "Los niños van al colegio."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 93
+    },
+    {
+      "id": "en-0094",
+      "term": "city",
+      "meaning": "ciudad",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Lima is a big city.",
+        "translation": "Lima es una ciudad grande."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 94
+    },
+    {
+      "id": "en-0095",
+      "term": "store",
+      "meaning": "tienda",
+      "pos": "sustantivo",
+      "example": {
+        "text": "The store closes at nine.",
+        "translation": "La tienda cierra a las nueve."
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 95
+    },
+    {
+      "id": "en-0096",
+      "term": "bathroom",
+      "meaning": "baño",
+      "pos": "sustantivo",
+      "example": {
+        "text": "Where is the bathroom?",
+        "translation": "¿Dónde está el baño?"
+      },
+      "tags": [
+        "A1",
+        "lugares"
+      ],
+      "rank": 96
+    },
+    {
+      "id": "en-0097",
+      "term": "big",
+      "meaning": "grande",
+      "pos": "adjetivo",
+      "example": {
+        "text": "That's a big dog.",
+        "translation": "Es un perro grande."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 97
+    },
+    {
+      "id": "en-0098",
+      "term": "small",
+      "meaning": "pequeño",
+      "pos": "adjetivo",
+      "example": {
+        "text": "I live in a small apartment.",
+        "translation": "Vivo en un departamento pequeño."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 98
+    },
+    {
+      "id": "en-0099",
+      "term": "good",
+      "meaning": "bueno",
+      "pos": "adjetivo",
+      "example": {
+        "text": "This is a good book.",
+        "translation": "Este es un buen libro."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 99
+    },
+    {
+      "id": "en-0100",
+      "term": "bad",
+      "meaning": "malo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "The weather is bad today.",
+        "translation": "Hoy hace mal tiempo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 100
+    },
+    {
+      "id": "en-0101",
+      "term": "new",
+      "meaning": "nuevo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "I have a new phone.",
+        "translation": "Tengo un teléfono nuevo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 101
+    },
+    {
+      "id": "en-0102",
+      "term": "old",
+      "meaning": "viejo; antiguo",
+      "pos": "adjetivo",
+      "example": {
+        "text": "My car is very old.",
+        "translation": "Mi carro es muy viejo."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 102
+    },
+    {
+      "id": "en-0103",
+      "term": "hot",
+      "meaning": "caliente; caluroso",
+      "pos": "adjetivo",
+      "example": {
+        "text": "It's very hot today.",
+        "translation": "Hoy hace mucho calor."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 103
+    },
+    {
+      "id": "en-0104",
+      "term": "cold",
+      "meaning": "frío",
+      "pos": "adjetivo",
+      "example": {
+        "text": "The water is cold.",
+        "translation": "El agua está fría."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 104
+    },
+    {
+      "id": "en-0105",
+      "term": "expensive",
+      "meaning": "caro",
+      "pos": "adjetivo",
+      "example": {
+        "text": "This hotel is expensive.",
+        "translation": "Este hotel es caro."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 105
+    },
+    {
+      "id": "en-0106",
+      "term": "cheap",
+      "meaning": "barato",
+      "pos": "adjetivo",
+      "example": {
+        "text": "The food here is cheap.",
+        "translation": "Aquí la comida es barata."
+      },
+      "tags": [
+        "A1",
+        "adjetivos"
+      ],
+      "rank": 106
+    },
+    {
+      "id": "en-0107",
+      "term": "book",
+      "meaning": "libro",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I'm reading a book.",
+        "translation": "Estoy leyendo un libro."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 107
+    },
+    {
+      "id": "en-0108",
+      "term": "money",
+      "meaning": "dinero",
+      "pos": "sustantivo",
+      "example": {
+        "text": "I don't have money.",
+        "translation": "No tengo dinero."
+      },
+      "tags": [
+        "A1",
+        "objetos"
+      ],
+      "rank": 108
+    },
+    {
+      "id": "en-0109",
+      "term": "actually",
+      "meaning": "en realidad",
+      "pos": "adverbio",
+      "example": {
+        "text": "Actually, I'm from Peru.",
+        "translation": "En realidad, soy de Perú."
+      },
+      "tags": [
+        "A1",
+        "otros",
+        "falso amigo"
+      ],
+      "rank": 109,
+      "notes": "Falso amigo: no significa «actualmente» (= currently)."
+    },
+    {
+      "id": "en-0110",
+      "term": "embarrassed",
+      "meaning": "avergonzado",
+      "pos": "adjetivo",
+      "example": {
+        "text": "I'm so embarrassed.",
+        "translation": "Me da mucha vergüenza."
+      },
+      "tags": [
+        "A1",
+        "adjetivos",
+        "falso amigo"
+      ],
+      "rank": 110,
+      "notes": "Falso amigo: no significa «embarazada» (= pregnant)."
+    }
+  ]
+}

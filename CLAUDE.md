@@ -32,11 +32,15 @@ GitHub Pages con `.github/workflows/deploy.yml` (push a `main`). La `base` de
 Vite es `/PowerSpeak/`; si el hosting cambia, usa `base: '/'` y elimina el
 workflow. En el repo: Settings → Pages → Source: **GitHub Actions**.
 
-## Estructura (prevista)
-- `src/srs/` — `sm2.ts` (algoritmo SM-2) y `scheduler.ts` (cola de repaso).
-- `src/` — persistencia en IndexedDB (`idb`), export/import y pantallas.
+## Estructura
+- `src/srs/` — `sm2.ts` (SM-2, puro) y `scheduler.ts` (cola de la sesión).
+- `src/db/storage.ts` — IndexedDB (`idb`): reviews, logs, settings, meta;
+  racha y exportar/importar.
+- `src/decks/loadDeck.ts`, `src/tts/speak.ts`, `src/components/*`,
+  `src/styles/app.css`.
 - `public/decks/*.json` — mazos A1 (~100 palabras por idioma), precacheados
-  por el service worker.
+  por el service worker. Los ids son estables: nunca se reutilizan.
+- `tests/` — sm2, scheduler, storage (fake-indexeddb) y decks.
 - `public/icons/` — íconos de la PWA (`icon.svg` es la fuente).
 
 ## Notas
